@@ -1,0 +1,388 @@
+/* General Styling */
+:root {
+  --primary-color: #d0d0d0; /* Neon Cyan */
+  --secondary-color: #8c00ff; /* Neon Purple */
+  --background-dark: #8e4ead; /* Deep space blue */
+  --surface-dark: rgba(35, 35, 53, 0.7); /* Translucent dark surface */
+  --text-light: #c4c4c4;
+  --border-soft: rgba(255, 255, 255, 0.1);
+  --shadow-soft: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  --glass-effect: saturate(180%) blur(10px);
+}
+
+body {
+  /* Removed all background and centering properties */
+  background: var(--background-dark); /* A solid background for the full-screen app */
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  height: 100vh;
+  overflow: hidden;
+  color: var(--text-light);
+}
+
+.main-container {
+  display: flex;
+  width: 100vw; /* Set width to 100% of viewport width */
+  height: 100vh; /* Set height to 100% of viewport height */
+  max-width: none; /* Removed maximum width constraint */
+  border-radius: 0; /* Removed rounded corners */
+  box-shadow: none; /* Removed box shadow */
+  overflow: hidden;
+  /* --- START IMAGE BACKGROUND CHANGES --- */
+  background-image: url('bg2.jpg'); /* <--- UPDATED TO YOUR IMAGE FILE */
+  background-size: cover; /* Ensures the image covers the entire container */
+  background-position: center; /* Centers the image */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  /* Add a semi-transparent overlay ON TOP OF THE IMAGE for readability */
+  background-color: rgba(30, 30, 46, 0.6); /* Adjust opacity as needed */
+  background-blend-mode: overlay; /* Blends the background-color with the image */
+  /* --- END IMAGE BACKGROUND CHANGES --- */
+  border: none; /* Removed main border */
+  backdrop-filter: var(--glass-effect);
+}
+
+/* Sidebar Styling */
+.sidebar {
+  width: 280px;
+  background-color: var(--surface-dark);
+  color: var(--text-light);
+  padding: 1.5rem;
+  border-right: 1px solid var(--border-soft);
+  display: flex;
+  flex-direction: column;
+  transition: all 0.3s ease;
+}
+
+.sidebar h3 {
+  margin: 0 0 1rem;
+  font-weight: 600;
+  color: var(--primary-color);
+  text-align: center;
+}
+
+/* Sidebar Actions Section */
+.sidebar-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 1.5rem;
+}
+
+.action-btn {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--text-light);
+  border: none;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: var(--glass-effect);
+}
+
+.action-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  box-shadow: 0 0 10px var(--primary-color);
+  transform: translateY(-2px);
+}
+
+/* New: Sidebar History Section */
+.sidebar-history {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border-soft);
+  /* Hidden by default */
+  display: none;
+}
+
+.history-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.history-list li {
+  background-color: rgba(255, 255, 255, 0.05);
+  color: var(--text-light);
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.history-list li:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  transform: translateX(5px);
+}
+
+.document-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  overflow-y: auto;
+}
+
+.document-list li {
+  background-color: rgba(255, 255, 255, 0.05);
+  color: var(--text-light);
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.document-list li:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  transform: translateX(5px);
+}
+
+/* Chatbot Container */
+.chatbot-container {
+  flex-grow: 1;
+  background: var(--surface-dark);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* Chatbot Nav Bar */
+.chatbot-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  background-color: var(--surface-dark);
+  border-bottom: 1px solid var(--border-soft);
+  position: relative;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  backdrop-filter: var(--glass-effect);
+}
+
+/* New: Profile Icon Styling */
+.profile-icon {
+  position: absolute;
+  right: 1.5rem;
+  font-size: 2rem;
+  color: var(--primary-color);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.profile-icon:hover {
+  color: var(--secondary-color);
+  transform: scale(1.1);
+}
+
+.chatbot-nav h4 {
+  margin: 0;
+  font-weight: 600;
+  font-size: 1.2rem;
+  color: var(--text-light);
+}
+
+.nav-buttons {
+  position: absolute;
+  right: 1.5rem;
+}
+
+.nav-btn {
+  background: none;
+  border: none;
+  color: var(--text-light);
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.nav-btn:hover {
+  color: var(--primary-color);
+  text-shadow: 0 0 5px var(--primary-color);
+}
+
+/* Chatbox content */
+.chatbox {
+  flex-grow: 1;
+  overflow-y: auto;
+  padding: 1.5rem;
+  list-style-type: none;
+  margin: 0;
+}
+
+.chat {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: flex-start;
+}
+
+.chat p {
+  max-width: 75%;
+  padding: 0.8rem 1.2rem;
+  border-radius: 1.5rem;
+  word-wrap: break-word;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: var(--glass-effect);
+}
+
+.chat.incoming p {
+  background-color: rgba(0, 224, 255, 0.1);
+  color: var(--text-light);
+  border-top-left-radius: 0.2rem;
+}
+
+.chat.outgoing {
+  justify-content: flex-end;
+}
+
+.chat.outgoing p {
+  background-color: rgba(140, 0, 255, 0.1);
+  color: var(--text-light);
+  border-top-right-radius: 0.2rem;
+}
+
+/* Chat input area */
+.chat-input {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  border-top: 1px solid var(--border-soft);
+  background: var(--surface-dark);
+  backdrop-filter: var(--glass-effect);
+}
+
+.hidden-file-input {
+  display: none;
+}
+
+.upload-btn, .send-btn {
+  color: #888;
+  cursor: pointer;
+  font-size: 1.2rem;
+  padding: 0.5rem 0.8rem;
+  transition: color 0.2s ease;
+}
+
+.upload-btn:hover, .send-btn:hover {
+  color: var(--primary-color);
+  text-shadow: 0 0 5px var(--primary-color);
+}
+
+.chat-input textarea {
+  flex-grow: 1;
+  border: 1px solid var(--border-soft);
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-light);
+  border-radius: 1.5rem;
+  padding: 0.75rem 1.2rem;
+  resize: none;
+  margin-right: 0.75rem;
+  transition: all 0.3s ease;
+  backdrop-filter: var(--glass-effect);
+}
+ 
+.chat-input textarea:focus {
+  outline: none;
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 2px rgba(0, 224, 255, 0.2);
+}
+
+/* --- START POP-UP STYLING --- */
+.popup-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.popup-backdrop.show-popup {
+    opacity: 1;
+    visibility: visible;
+}
+
+.popup-content {
+    background-color: var(--surface-dark);
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: var(--shadow-soft);
+    position: relative;
+    max-width: 400px;
+    width: 90%;
+    text-align: center;
+    backdrop-filter: var(--glass-effect);
+    border: 1px solid var(--border-soft);
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.close-btn {
+    position: absolute;
+    top: 1rem;
+    right: 1.5rem;
+    font-size: 2rem;
+    color: var(--text-light);
+    cursor: pointer;
+    transition: color 0.2s ease;
+}
+
+.close-btn:hover {
+    color: var(--primary-color);
+}
+
+.popup-header .fas {
+    font-size: 4rem;
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.popup-header h3 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: var(--text-light);
+}
+
+.popup-details {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.popup-details p {
+    margin: 0;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.popup-details strong {
+    color: var(--primary-color);
+}
+/* --- END POP-UP STYLING --- */
