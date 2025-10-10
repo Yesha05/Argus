@@ -1,0 +1,1668 @@
+ 
+A. GUIDELINES FOR ASSESSMENT AND ACCREDITATION 
+ 
+I. INTRODUCTION 
+India has one of the largest and diverse education systems, in the world. Privatization, widespread expansion, increased autonomy and introduction of programs in new and emerging areas has improved access to higher education. At the same time it also led to widespread concern on the quality and relevance of the higher education. To address these concerns, the National Policy on Education (NPE, 1986) and the Programme of Action (PoA, 1992) that spelt out strategic plans for the policies, advocated the establishment of an independent National accreditation agency. 
+Consequently, the NATIONAL ASSESSMENT AND ACCREDITATION COUNCIL (NAAC) was established in 1994 as an autonomous institution of the University Grants Commission (UGC). The mandate of NAAC as reflected in its vision statement is in making quality assurance an integral part of the functioning of Higher Education Institutions (HEIs).  
+ 
+The NAAC functions through its General Council (GC) and Executive Committee (EC) where educational administrators, policy makers and senior academicians from a cross-section of Indian higher education system are represented. The Chairperson of the UGC is the President of the GC of the NAAC, the Chairperson of the EC is an eminent academician nominated by the President of GC (NAAC). The Director is the academic and administrative head of NAAC, and is the member-secretary of both the GC and the EC. In addition to the statutory bodies that steer its policies and core staff to support its activities, NAAC is advised by the advisory and consultative committees constituted from time to time.  
+ 
+Vision and Mission  The vision of NAAC is: 
+To make quality the defining element of higher education in India through a combination of self and external quality evaluation, promotion and sustenance initiatives. 
+ 
+The mission statements of the NAAC aim at translating the NAAC’s vision into action plans and define specific tasks of NAAC engagement and endeavor as given below:    
+ 
+• To arrange for periodic assessment and accreditation of institutions of higher education or units thereof, or specific academic programmes or projects; 
+• To stimulate the academic environment for promotion of quality in teaching-learning and research in higher education institutions; 
+• To encourage self-evaluation, accountability, autonomy and innovations in higher education; 
+• To undertake quality-related research studies, consultancy and training programmes, and 
+• To collaborate with other stakeholders of higher education for quality evaluation, promotion and sustenance. 
+ 
+Striving to achieve its goals as guided by its vision and mission statements, NAAC primarily focuses on assessment of the quality of higher education institutions in the country.  The NAAC methodology for Assessment and Accreditation is very much similar to that followed by Quality Assurance (QA) agencies across the world and consists of self-assessment by the institution and external peer assessment by NAAC.  
+ 
+ 
+II. CORE VALUES  
+Throughout the world, Higher Education Institutions (HEIs) function in a dynamic environment.  The need to expand the system of higher education, the impact of technology on the educational delivery, the increasing private participation in higher education and the impact of globalization (including liberal cross-border and transnational educational imperatives), have necessitated marked changes in the Indian higher education system. These changes and the consequent shift in values have been taken into cognizance by NAAC while formulating the core values. Further to ensure external and internal validity and credibility, it is important to ground the QA process within a value framework which is suitable and appropriate to the National context.  
+ 
+ 
+The accreditation framework of NAAC is thus based on five core values detailed below: 
+ 
+(i) Contributing to National Development 
+Most of the HEIs have a remarkable capacity to adapt to changes, and at the same time pursue the goals and objectives that they have set forth for themselves. Contributing to National Development has always been an implicit goal of Indian HEIs. The HEIs have a significant role in human resource development and capacity building of individuals, to cater to the needs of the economy, society and the country as a whole, thereby contributing to the development of the Nation. Serving the cause of social justice, ensuring equity, and increasing access to higher education are a few ways by which HEIs can contribute to the National Development. It is therefore appropriate that the Assessment and Accreditation (A&A) process of the NAAC looks into the ways HEIs have been responding to and contributing towards National Development.  
+ 
+(ii) Fostering Global Competencies among Students 
+The spiraling developments at the global level also warrant that the NAAC includes in its scope of assessment, skill development of students, on par with their counterparts elsewhere. With liberalization and globalization of economic activities, the need to develop skilled human resources of a high caliber is imperative. Consequently, the demand for internationally acceptable standards in higher education is evident.  Therefore, the accreditation process of NAAC needs to examine the role of HEIs in preparing the students to achieve core competencies, to face the global requirements successfully. This requires that the HEIs be innovative, creative and entrepreneurial in their approach, to ensure skill development amongst the students. Towards achieving this, HEIs may establish collaborations with industries, network with the neighborhood agencies/bodies and foster a closer relationship between the “world of skilled work” and the “world of competent-learning”.  
+ 
+(iii) Inculcating a Value System among Students 
+Although skill development is crucial to the success of students in the job market, skills are of less value in the absence of appropriate value systems. HEIs have to shoulder the responsibility of inculcating the desirable value systems amongst the students. In a country like India, with cultural pluralities and diversities, it is essential that students imbibe the appropriate values commensurate with social, cultural, economic and environmental realities, at the local, national and universal levels. Whatever be the pluralities and diversities that exist in the country, there is ample scope for debate about inculcating the core universal values like truth and righteousness apart from other values emphasised in the various policy documents of the country.  The seeds of values sown in the early stages of education, mostly aimed at cooperation and mutual understanding, have to be reiterated and re-emphasized at the higher educational institutions, through appropriate learning experiences and opportunities. The NAAC assessment therefore examines how these essential and desirable values are being inculcated in the students, by the HEIs. 
+ 
+(iv) Promoting the Use of Technology 
+Most of the significant developments that one can observe today can be attributed to the impact of Science and Technology. While the advantages of using modern tools and technological innovations in the day-to-day-life are well recognized, the corresponding changes in the use of new technologies, for teaching – learning and governance of HEIs, leaves much to be desired. Technological advancement and innovations in educational transactions have to be undertaken by all HEIs, to make a visible impact on academic development as well as administration. At a time when our educational institutions are expected to perform as good as their global partners, significant technological innovations have to be adopted. Traditional methods of delivering higher education have become less motivating to the large number of students. To keep pace with the developments in other spheres of human endeavor, HEIs have to enrich the learning experiences of their students by providing them with State- of- the- Art educational technologies. The campus community must be adequately prepared to make use of Information and Communication Technology (ICT) optimally. Conscious effort is also needed to invest in hardware, and to orient the faculty suitably.  
+ 
+In addition to using technology as learning resources, managing the activities of the institution in a technology-enabled way will ensure effective institutional functioning. For example, documentation and data management in the HEIs are areas where the process of assessment by NAAC has made a significant impact. Moving towards electronic data management and having institutional website to provide ready and relevant information to stakeholders, are desirable steps in this direction. In other words, effective use of ICT in HEIs will be able to provide ICT literacy to the campus community, using ICT for resource sharing and networking, as well as adopting ICT-enabled administrative processes. Therefore, NAAC accreditation would look at how the HEIs have put in place their electronic data management systems and electronic resources and their access to internal and external stakeholders particularly the student community. 
+ 
+(v) Quest for Excellence 
+Contributing to nation-building and skills development of students, institutions should demonstrate a drive to develop themselves into centre’s of excellence. Excellence in all that they do, will contribute to the overall development of the system of higher education of the country as a whole. This ‘Quest for Excellence’ could start with the assessment or even earlier, by the establishment of the Steering Committee for the preparation of the Self Study Report (SSR) of an institution. Another step in this direction could be the identification of the strengths and weaknesses in the teaching and learning processes as carried out by the institution.  
+ 
+The five core values as outlined above form the foundation for assessment of institutions that volunteer for accreditation by NAAC. In conformity with the goals and mission of the institution, the HEIs may also add to these their own core values.   
+ 
+III. ASSESSMENT AND ACCREDITATION OF HIGHER EDUCATION   
+     INSTITUTIONS  
+The forces of globalization and liberalization influenced the Indian Higher education in a big way. In a situation where Higher education, similar to the goods and other services has to compete internationally, quality assurance becomes inevitable. Further Indian HEIs operate within a larger framework comprising of several agencies, national contexts and societal expectations and each of these have a unique rendition of the goals. At the functional level, the effectiveness of the HEI is reflected in the extent to which all these layers of goals mutually concur. In such contexts the A&A process is a beginning to bring in uniform quality and position HEIs  in such a way that they address more directly the quality provision and the expressed needs of the stakeholders.  
+ 
+(i) Focus of Assessment   
+NAAC assessment lays focus on the institutional developments with reference to three aspects: Quality initiative, Quality sustenance and Quality enhancement. The overall quality assurance framework of NAAC thus focuses on the values and desirable practices of HEIs and incorporates the core elements of quality assurance i.e. internal and external assessment for continuous improvement. The value framework of NAAC starts with its choice of unit of evaluation i.e. the Institution as a whole. The A&A process of NAAC which involves a combination of self evaluation and external peer evaluation implicitly or explicitly is concerned with looking at the developmental aspects of the HEIs in the context of quality.  
+ 
+Self-evaluation is crucial in the process of A&A and has a tremendous contribution in promoting objectivity, self-analysis, reflection and professionalism on the part of HEIs. The self-evaluation proforma of NAAC provided as “manuals for self study” maps out different inputs, processes and outputs and facilitates HEIs to evaluate their strengths, weaknesses and areas for improvement. The self-evaluation process and the subsequent preparation of the Self-Study Report (SSR) to be submitted to NAAC involves the participation of all the stakeholders – management, faculty members, administrative staff, students, parents, employers, community and alumni. While the participation of internal stakeholders i.e. management, staff and students provide credibility and ownership to the activity and could lead to newer initiatives, interaction with the external stakeholders facilitate the development process of the institution and their educational services. Overall it is expected to serve as a catalyst for institutional self-improvement, promote innovation and strengthen the urge to excel.  
+ 
+NAAC’s role in steering assessment does not stop with the coordinating function but extends to the post-accreditation activities especially in facilitating establishment of  strategic quality management systems for ensuring  continuous improvement. One of the major contributions of NAAC towards this is the promotion of Internal Quality Assurance Cell (IQAC) resulting in building a quality culture. The IQACs are not only expected to facilitate the internalization and institutionalization of quality, but also to activate the system and raise the institutional capabilities to higher levels ensuring continuous quality improvement.  
+ 
+(ii) Criteria and Key Aspects for Assessment 
+The criteria-based assessment of NAAC forms the backbone of the A&A. The seven criteria represent the core functions and activities of an institution and broadly focus on the issues which have a direct impact on teaching-learning, research, community development and the holistic development of the students. The NAAC has identified the following seven criteria to serve as the basis for assessment of HEIs: 
+1. Curricular Aspects 
+2. Teaching-Learning and Evaluation 
+3. Research, Consultancy and Extension 
+4. Infrastructure and Learning Resources 
+5. Student Support and Progression 
+6. Governance, Leadership and Management 
+7. Innovations and Best Practices 
+The Criteria-based assessment promotes judgment based on values.  For example the Criterion on “Governance, Leadership and Management” promotes the values such as participation, transparency, team work, systems view, justice, self-reliance and probity in public finance.  
+ 
+The Key Aspects identified under each of the seven criteria reflect the processes and values of the HEI on which assessment is made. The questions under each of the Key Aspects focus in particular on the outcomes, the institutional provisions which contribute to these and their impact on student learning and development.  
+      
+      The strengths or weaknesses in one area may have an effect on quality in another area. Thus the issues addressed within the Criteria and Key Aspects are closely inter-related and may appear to be overlapping. The criteria and the Key Aspects are not a set of standards or measurement tools by themselves and do not cover everything which happens in every HEI. They are the levers for transformational change and  provide an external point of reference for evaluating the quality of the institution under assessment.  
+       
+     NAAC uses the same framework across the country. Using the same framework   across the country provides a common language about quality and makes it much easier for everyone to go in one direction and in evidence based policy making.  
+ 
+1. Criterion I - Curricular Aspects: Depending on the responsibilities of various Institutions, this criterion deals with curriculum development and implementation process. The criterion looks into how the curriculum either assigned by a University or marginally supplemented or enriched by an institution, or totally remade, depending on the freedom allowed in curricular design, aligns with the institutional mission. It also considers the practices of an institution in initiating a wide range of programme options and courses that are in tune with the emerging national and global trends and relevant to the local needs. Apart from issues of diversity and academic flexibility, aspects on career orientation, multi-skill development and involvement of stakeholders in curriculum updation, are also gauged under this criterion. The focus of this criterion is captured in the following Key Aspects: 
+ 
+ 	KEY ASPECTS 
+1.1(U)* Curriculum Design and Development  
+     (For Universities and Autonomous Colleges) 
+1. 1(A)* Curriculum Planning and Implementation  
+       (For Affiliated/Constituent Colleges) 
+1.2 Academic flexibility 
+1.3 Curriculum Enrichment 
+1.4 Feedback System 
+* 
+(U)- applicable only for Universities and  Autonomous Colleges 
+(A)- applicable only for the Affiliated/Constituent Colleges  
+ 
+ 
+1.1(U) Curriculum Design and Development (This key aspect is applicable only for 
+Universities and  Autonomous Colleges) 
+Universities and Autonomous colleges play a major role in the Curriculum Design and Development and thus are expected to have processes, systems and structures in place to shoulder this responsibility. Curriculum Design and Development is a complex process involving several steps and experts. It is a process of developing appropriate need-based curricula in consultation with expert groups, based on the feedback from stakeholders, resulting in the development of relevant programmes with flexibility, to suit the professional and personal needs of the students and realization of core values.  
+  
+The key aspect also considers the good practices of the institution in initiating a range of programme options and courses that are relevant to the local needs and in tune with the emerging national and global trends. 
+ 
+1. 1(A)   Curriculum Planning and Implementation  
+         (This key aspect is applicable only for the Affiliated/Constituent Colleges)     
+The affiliated/constituent colleges’ curriculum is given by the affiliating University or other regulatory agencies. However, the colleges have to work out details for effectively operationalising the given curricula. The process involves orientation of the teachers who would handle the curriculum and proper planning of the transaction. It also requires an understanding on the various teachinglearning practices and their appropriate use.  
+ 
+Since acquisition of competencies occurs at different paces for different learners it is required that the institutions have specific implementation plans identifying the time to be spent on specific components. In addition if the institution is providing specially designed courses it also has the responsibility to develop appropriate need based curricula in consultation with stakeholders. 
+ 
+1.2 Academic Flexibility  
+Academic flexibility refers to freedom in the use of the time-frame of the courses, horizontal mobility, inter-disciplinary options and others facilitated by curricular 
+
+transactions. Supplementary enrichment programmes introduced as an initiative of the college, credit system and choice offered in the curriculum, in terms of programme, curricular transactions and time-frame options are also considered in this key aspect.  
+ 
+1.3 Curriculum Enrichment   
+Every academic institution translates the curriculum framework and the specified syllabus by rendering them into practical forms, in which the main focus is on the student attributes and on holistic development of the students so that he/she can display multiple skills and qualities.  For effective transaction of the curriculum it is required it is up-to date. For keeping the curriculum up-to-date and introduce appropriate changes within the given curriculum, several inputs are provided parallelly or sequentially. All these would be possible through introduction and use of quality materials which would enrich the curriculum and provide concrete referents for organizing the curriculum.  
+ 
+1.4 Feedback System 
+The process of revision and redesign of curricula is based on recent developments and feedback from the stakeholders. The feedback from all stakeholders in terms of its relevance and appropriateness in catering to the needs of the society/ economy/ environment are also considered in this key aspect.  
+ 
+2. Criterion II - Teaching-Learning and Evaluation: This criterion deals with the efforts of an institution to serve students of different backgrounds and abilities, through effective teaching-learning experiences. Interactive instructional techniques that engage students in higher order ‘thinking’ and investigation, through the use of interviews, focused group discussions, debates, projects, presentations, experiments, practicum, internship and application of ICT resources, are important considerations. It also probes into the adequacy, competence as well as the continuous professional development of the faculty who handle the programmes of study. The efficiency of the techniques used to continuously evaluate the performance of teachers and students is also a major concern of this criterion. The focus of this criterion is captured in the following  Key Aspects: 
+ 
+KEY ASPECTS 
+ 
+2.1 Student Enrolment and Profile  
+2.2 Catering to Student Diversity  
+2.3 Teaching-Learning Process 
+2.4 Teacher Quality 
+2.5 Evaluation Process and Reforms 
+2.6 Student Performance and Learning Outcomes                                 
+ 
+2.1 Student Enrolment and Profile  
+The process of admitting students to the programmes is by a transparent, welladministered mechanism, complying with all the norms of the concerned regulatory/governing agencies including state and central governments. Apart from the compliance to the various regulations the key aspect also considers the institutions efforts in ensuring equity and wide access as reflected from the student profile having representation of student community from different geographical area and socio-economic, cultural and educational backgrounds.  
+ 
+2.2 Catering to Student Diversity  
+The programmes and strategies adopted by institutions to satisfy the needs of the students from diverse backgrounds including backward community as well as from different locales. Gender equity and admission opportunity for differentlyabled students are also considered. 
+   
+2.3 Teaching-Learning Process 
+Diversity of Learners in respect of their background, abilities and other personal attributes will influence the extent of their learning. The teaching-learning modalities of the institution are rendered to be relevant for the learner group. The learner-centered education through appropriate methodologies facilitates effective learning. Teachers provide a variety of learning experiences, including individual and collaborative learning. The teachers employ interactive and participatory approach creating a feeling of responsibility in learning and makes learning a process of construction of knowledge.  
+ 
+2.4 Teacher Quality 
+‘Teacher quality’ is a composite term to indicate the quality of teachers in terms of qualification of the faculty, teacher characteristics, the adequacy of recruitment procedures, faculty availability, professional development and recognition of teaching abilities. Teachers take initiative to learn and keep abreast of the latest developments, to innovate, continuously seek improvement in their work and strive for individual and institutional excellence.  
+ 
+2.5 Evaluation Process and Reforms 
+This Key Aspect looks at issues related to assessment of teaching, learning and evaluative processes and reforms, to increase the efficiency and effectiveness of the system. One of the purposes of evaluation is to provide development-inducing feedback. Further it should also help the teacher to plan appropriate activities for enhancing student performance. The qualitative dimension of evaluation is in its use for enhancing the competence of students. Innovative evaluation process is to gauge the knowledge and skills acquired at various levels of the programmes. 
+ 
+2.6 Student Performance and Learning Outcomes    
+Learning outcomes are the specifications of what a student should learn and demonstrate on successful completion of the cource or the programme. It can also be seen as the desired outcome of the learning process in terms of acquisition of the skills and knowledge. They are embedded in the curriculum. Achieving Learning Outcomes needs specific experiences to be provided to the students and evaluation of their attainment. A programme that states Learning Outcomes that are not evaluated or assessed gets neglected in implementation. Hence all the stated Learning Outcomes must be part of the evaluation protocol of the programme. Student assessment provides an indication of the areas where learning has happened and where it has to be improved upon.  
+ 
+3. Criterion III - Research, Consultancy and Extension: This criterion seeks information on the policies, practices and outcomes of the institution, with reference to research, consultancy and extension. It deals with the facilities provided and efforts made by the institution to promote a ‘research culture’. The institution has the responsibility to enable faculty to undertake research projects useful to the society. Serving the community through extension, which is a social responsibility and a core value to be demonstrated by institutions, is also a major aspect of this criterion. The focus of this criterion is captured in the following Key Aspects: 
+	 	KEY ASPECTS 
+3.1 Promotion of Research  
+3.2 Resource Mobilization for Research  3.3 Research Facilities 
+            3.4 Research Publications and Awards    
+3.5 Consultancy  
+      3.6 Extension Activities and Institutional Social Responsibility             3.7 Collaborations  
+3.1 Promotion of Research 
+The process of promoting research culture among faculty and students is ensured by facilitating participation in research and related activities, providing resources and other facilities 
+ 
+3.2 Resource Mobilization for Research 
+The institution provides support in terms of  financial, academic and human resources required and timely administrative decisions to enable faculty to submit project proposals and/approach funding agencies for  mobilizing resources for Research. The institutional support to its faculty for submitting Research projects and securing external funding through flexibility in administrative processes and infrastructure and academic support are crucial for any institution to excel in Research. The faculty are empowered to take up research activities utilizing the existing facilities. The institution encourages its staff to engage in interdisciplinary and interdepartmental research activities and resource sharing.  
+ 
+3.3 Research Facilities 
+Required infrastructure in terms of space and equipment and support facilities are available on the campus for undertaking research. The institution collaborates with other agencies/ institutions/research bodies for sharing research facilities and undertaking collaborative research. 
+ 
+3.4 Research Publications and Awards 
+Exploration and reflection are crucial for any teacher to be effective in his/her job. Quality research outcome is beneficial for the discipline/ society/ industry/ region and the nation. Sharing of knowledge especially theoretical and practical findings of research, through various media enhances quality of teaching and learning.  
+ 
+3.5 Consultancy 
+Activity organized or managed by the Faculty for an external agency for which the expertise and the specific knowledge base of the faculty becomes the major input. The finances generated through consultancy are fairly utilized by the institution. The faculty taking up the consultancy is properly rewarded. 
+ 	 
+3.6 Extension Activities and Institutional Social Responsibility (ISR) 
+Learning activities have a visible element for developing sensitivities towards community issues, gender disparities, social inequity etc. and in inculcating values and commitment to society. Mutual benefit from affiliation and interaction with groups or individuals who have an interest in the activities of the institution and the ability to influence the actions, decisions, policies, practices or goals of the organization. Processes and strategies that relevantly sensitize students to the social  issues and contexts.  
+ 
+Sustainable practices of the institution leading to superior performance resulting in successful outcome in terms of generating knowledge which will be useful for the learner as well as the community. 
+ 
+Extension also is the aspect of education, which emphasizes community services. These are often integrated with curricula as extended opportunities, intended to help, serve, reflect and learn. The curriculum-extension interface has an educational value, especially in rural India. 
+3.7 Collaborations 
+There are formal agreement/ understanding between the institution and other HEIs or agencies for training/student exchange/faculty exchange/ research/resource sharing etc.  
+ 
+4. Criterion IV - Infrastructure and Learning Resources: This criterion seeks to elicit data on the adequacy and optimal use of the facilities available in an institution to maintain the quality of academic and other programmes on the campus. It also requires information on how every constituent of the institution - students, teachers and staff - benefit from these facilities. Expansion of facilities to meet future development is included among other concerns. The focus of this criterion is captured in the following Key Aspects: 
+	 	KEY ASPECTS 
+4.1 Physical Facilities  
+4.2 Library as a Learning Resource 
+4.3 IT Infrastructure   
+4.4 Maintenance of Campus Facilities 
+ 
+4.1 Physical Facilities 
+Adequate infrastructure facilities are key for effective and efficient conduct of the educational programmes.  The growth of the infrastructure thus has to keep pace with the academic developments in the institution. The other supportive facilities on the campus are developed to contribute to the effective ambience for curricular, extra- curricular and administrative activities. 
+ 
+4.2 Library as a Learning Resource 
+The library holdings in terms of books, journals and other learning materials and technology-aided learning mechanisms which enable students to acquire information, knowledge and skills required for their study programmes.  
+ 
+ 
+4.3 IT Infrastructure  
+The institution adopts policies and strategies for adequate technology deployment and maintenance. The ICT facilities and other learning resources are adequately available in the institution for academic and administrative purposes. The staff and students have access to technology and information retrieval on current and relevant issues. The institution deploys and employs ICTs for a range of activities.  
+ 
+4.4 Maintenance of Campus Facilities 
+The institution has sufficient resources allocated for regular upkeep of the infrastructure. There are effective mechanisms for the upkeep of the infrastructure facilities and promote the optimum use of the same. 
+ 
+5. Criterion V - Student Support and Progression: The highlights of this criterion are the efforts of an institution to provide necessary assistance to students, to acquire meaningful experiences for learning at the campus and to facilitate their holistic development and progression. It also looks into student performance and alumni profiles and the progression of students to higher education and gainful employment. The focus of this criterion is captured in the following Key Aspects: 
+	 	KEY ASPECTS 
+ 
+ 	5.1 Student Mentoring and Support  
+5.2 Student Progression 
+5.3 Student Participation and Activities   
+ 
+5.1 Student Mentoring and Support 
+Facilitating mechanisms like guidance cell, placement cell, grievance redressal cell and welfare measures to support students. Specially designed inputs are provided to the needy students with learning difficulties. Provision is made for bridge and value added courses in relevant areas. Institution has a well structured, organized guidance and counseling system in place.  
+ 
+ 
+5.2 Student Progression 
+The Institutions’ concern for students’ progression to higher studies and/or to employment is dealt with under this Key Aspect. Identify the reasons for poor attainment and plan and implement remedial measures. Sustainable good practices which effectively support the students facilitate optimal progression. The institutional provisions facilitate vertical movement of students from one level of education to the next higher level or towards gainful employment. 
+ 
+5.3 Student Participation and Activities 
+The institution promotes inclusive practices for social justice and better stakeholder relationships. The institution promotes value-based education for inculcating social responsibility and good citizenry amongst its student community.  
+ 
+The institution has the required infrastructure and promotes active participation of the students in social, cultural and leisure activities. Encouraging students’ participation in activities facilitates developing various skills and competencies and foster holistic development. 
+ 
+6. Criterion VI - Governance, Leadership and Management : This criterion helps gather data on the policies and practices of an institution in the matter of planning human resources, recruitment, training, performance appraisal, financial management and the overall role of leadership in institution building. The focus of this criterion is on the following Key Aspects: 
+ 
+	 	KEY ASPECTS 
+6.1 Institutional Vision and Leadership 
+6.2 Strategy Development and Deployment 
+6.3 Faculty Empowerment Strategies 
+6.4 Financial Management and Resource Mobilization 
+6.5 Internal Quality Assurance System (IQAS) 
+ 
+6.1 Institutional Vision and Leadership 
+Effective leadership by setting values and participative decision-making process is key not only to achieve the vision, mission and goals of the institution but also in building the organizational culture. The formal and informal arrangements in the institution to co-ordinate the academic and administrative planning and implementation reflects the institutions efforts in achieving its vision.  
+ 
+6.2 Strategy Development and Deployment 
+The leadership provides clear vision and mission to the institution. The functions of the institution and its academic and administrative units are governed by the principles of participation and transparency. Formulation of development objectives, directives and guidelines with specific plans for implementation by aligning the academic and administrative aspects improves the overall quality of the Institutional provisions. 
+ 
+6.3 Faculty Empowerment Strategies 
+The process of planning human resources including recruitment, performance appraisal and planning professional development programmes and seeking appropriate feedback, analysis  of  responses and ensure that they form the basis for planning. Efforts are made to upgrade the professional competence of the staff. There are mechanisms evolved for regular performance appraisal of staff. 
+ 
+6.4 Financial Management and Resource Mobilization 
+Budgeting and optimum utilization of finance, including mobilization of resources are the issues considered under this key aspect. There are established procedures and processes for planning and allocation of financial resources. The institution has developed strategies for mobilizing resources and ensures transparency in financial management of the institution. The income and expenditure of the institution are subjected to regular internal and external audit. 
+ 
+6.5 Internal Quality Assurance System (IQAS) 
+The internal quality assurance systems of HEIs are Self-regulated responsibilities of the higher education institutions, aimed at continuous improvement of quality and achieving academic excellence. The institution has mechanisms for academic auditing. The institution adopts quality management strategies in all academic and administrative aspects. The institution has an IQAC and adopts a participatory approach in managing its provisions.  
+ 
+7. Criterion VII - Innovations and Best Practices: This criterion focuses on the innovative efforts of an institution that help in its academic excellence. An innovative practice could be a pathway created to further the interest of the student and the institution, for internal quality assurance, inclusive practices and stakeholder relationships.   
+	 	KEY ASPECTS 
+  7.1 Environment Consciousness 
+              7.2 Innovations 
+              7.3 Best Practices  
+7.1 Environment Consciousness 
+The institution displays sensitivity to issues like climate change and environmental issues. It adopts environment friendly practices and takes necessary actions such as – energy conservation, rain water harvesting, waste recycling, carbon neutral etc. 
+ 
+7.2 Innovations 
+The institution is geared to promote an ambience of creativity innovation and improving quality. 
+ 
+7.3 Best Practices 
+Practices of the institution leading to improvement and having visible impact on the quality of the institutional provisions are considered in this Key Aspect.  
+ 
+ 
+IV. THE ASSESSMENT OUTCOME 
+The assessment by NAAC takes a holistic view of all the inputs, processes and outcomes of an institution and thus the HEIs are expected to demonstrate how they achieve the objectives of the core values through the data and information detailed in the self study reports (SSR). The Assessment and Accreditation outcome includes a qualitative and quantitative component. The qualitative part of the outcome is the Peer Team Report (PTR) and the quantitative part includes a Cumulative Grade Point Average (CGPA), a letter grade and a performance descriptor.  
+ 
+(i) Weightages 
+Taking cognizance of the diversity in institutional functioning, HEIs have been grouped under three major categories i.e.  Universities, Autonomous colleges and Affiliated colleges and differential weightages are assigned for each of the seven criteria as detailed in the table below: 
+ 
+Criteria Key Aspects Universities Autonomous Colleges Affiliated Colleges 1. Curricular  
+Aspects 
+ 1.1 *(U)Curriculum 
+Design and Development   50 50 NA 1.1. *(A) Curricular 
+Planning and 
+Implementation NA NA 20 1.2 Academic Flexibility 50 50 30 1.3 Curriculum 
+Enrichment   30 30 30 1.4 Feedback System     20 20 20 Total 
+ 150 150 100 2. TeachingLearning and 
+Evaluation 
+ 2.1 Student Enrolment and Profile 10 30 30 2.2 Catering to Student 
+Diversity  20 40 50 2.3 Teaching-Learning 
+Process  50 100 100 2.4 Teacher Quality     50 60 80 2.5 Evaluation Process and Reforms    40 30 50 2.6 Student Performance and Learning Outcomes   30 40 40 Total 
+ 200 300 350 
+Criteria Key Aspects Universities Autonomous Colleges Affiliated Colleges 3. Research, 
+Consultancy and 
+Extension 
+ 
+ 3.1 Promotion of 
+Research  20 20 20 3.2 Resource Mobilization for  Research  20 20 10 
+ 3.3 Research  Facilities 30 20 10 3.4 Research Publications and Awards   100 20 20 3.5 Consultancy 20 10 10 3.6 Extension Activities and Institutional Social Responsibility     40 50 60 3.7 Collaboration  20 10 20 Total 
+ 250 150 150 4.Infrastructu re and 
+Learning 
+Resources 
+ 4.1 Physical Facilities  30 30 30 4.2 Library as a Learning 
+Resource 20 20 20 4.3 IT Infrastructure   30 30 30 4.4 Maintenance of 
+Campus Facilities 20 20 20 Total 
+ 100 100 100 5. Student 
+Support and 
+Progression 
+ 5.1 Student Mentoring and Support  40 40 50 5.2 Student Progression  40 40 30 5.3 Student Participation and Activities  20 20 20 Total 
+ 100 100 100 6. 
+Governance 
+Leadership and 
+Management 
+ 
+ 6.1 Institutional Vision and Leadership 10 10 10 6.2 Strategy Development and Deployment   10 10 10 6.3 Faculty 
+Empowerment Strategies   30 
+ 30 30 6.4 Financial 
+Management and 
+Resource Mobilization   20 20 20 Criteria Key Aspects Universities Autonomous Colleges Affiliated Colleges 6.5 Internal Quality 
+Assurance System   30 30 30 Total 
+ 100 100 100 7. 
+Innovations and Best Practices  
+ 7.1 Environment 
+Consciousness 30 30 30 7.2 Innovations  30 30 30 7.3 Best Practices 40 40 40 Total 
+ 100 100 100  TOTAL SCORE  1000 1000 1000 * 
+(U)- applicable only for Universities and  Autonomous Colleges 
+(A)- applicable only for the Affiliated/Constituent Colleges 
+ 
+(ii) Grading System 
+The accreditation status of the assessed HEIs is decided using the weightages detailed above. Institutions will be assessed and graded on a four point scale and qualifying institutions accredited and graded on a 3- letter grade as follows: 
+ 
+Range of institutional Cumulative Grade 
+Point Average (CGPA) Letter 
+Grade Performance Descriptor 3.01-4.00 A  Very Good (Accredited) 2.01-3.00 B Good 
+(Accredited) 1.51-2.00 C Satisfactory (Accredited) ? 1.50 D  Unsatisfactory (Not Accredited)  
+Institutions which secure a CGPA equal to or less than 1.50 and graded “D” does not qualify for accreditation. Such unqualified institutions will be intimated and notified by the NAAC as “assessed and found not qualified for accreditation”.  
+ 
+(ii) Validity Period of Accreditation  
+The accreditation status is valid for five years from the date of approval by the Executive Committee of the NAAC. To continue the status of accreditation the institution has to record its intent for the next cycle accreditation by submitting the LOI six months before the expiry of the accreditation status and the SSR within six months of acceptance of the LOI by NAAC. Institutions that do not adhere to these timelines will lose the accreditation status. 
+ 
+ 
+V. ELIGIBILITY FOR ASSESSMENT AND ACCREDITATION BY NAAC  
+1) The following types of Higher Education Institutions (HEIs) are eligible to apply for the process of Assessment and Accreditation (A&A) of NAAC, if they have a record of offering degree programmes and atleast two batches of students having graduated from them and fulfill the other conditions or are covered by the other provisions, if any, mentioned below: 
+a) Universities (Central/State, including Private) and Institutions of National Importance  
+• Provided that in case of professional Universities / Institutions of National Importance, their record of atleast two batches of students having graduated. 
+• Provided further that the duly established campuses within the country or off-shore campuses, if any, shall be treated as part of the universities / Institutions of National Importance for the A&A process. 
+b) Colleges (i.e., colleges/institutions affiliated to or constituent of or  recognized by universities, including autonomous colleges)  
+• Provided Teacher Education / Physical Education colleges shall have a standing of atleast three years. 
+• However, colleges/institutions offering programmes recognized by Statutory Professional Regulatory Councils concerned as equivalent to a degree programme of a university shall also be eligible for A&A even if such colleges/institutions are not affiliated to a university.  
+ 
+2) Deemed to be Universities declared under Section 3 of the UGC Act are eligible for the A&A process of NAAC, regardless of the number of years of establishment. A deemed university needs to opt for A&A of all its duly approved constituent units, campuses at various locations within the country and off-shore campuses, if any. However, if the deemed university has any unit/campus which is not approved by MHRD/UGC, the deemed university itself shall not be eligible for A&A. 
+ 
+3) Departments of Teacher Education / Physical Education 
+Provided that the Departments of Teacher Education / Physical Education, if any, may opt for A&A: 
+• if such departments shall have a standing of atleast three years and have a record of atleast two batches of students having graduated from them; and  
+• either along with the University / College or after the University / College has already been accredited. 
+ 
+4) Any other HEIs at the discretion of NAAC. 
+Note: The NAAC accreditation does not cover distance education units of HEIs. For details on the process and the time schedules please refer NAAC website:  
+http://www.naac.gov.in  
+ 
+ 
+VI. THE ASSESSMENT PROCESS 
+NAAC believes that an institution that really understands itself – it’s strengths, it’s weaknesses, it’s potentials and limitations - is likely to be effective in carrying out it’s educational mission and make continuous improvement. Thus the A&A of NAAC includes a self evaluation by the institution that is expected to be done with honest introspection followed by an external Peer evaluation by NAAC. Self evaluation by the institution and an external peer assessment are inevitable for Quality assurance.  
+ 
+ 
+ 
+Some of the important stages in A&A of HEIs are given below: 
+ 
+a) On-line submission of Letter of Intent (LoI) and/or application for Institutional Eligibility for Quality Assessment (IEQA) 
+All HEIs fulfilling the eligibility criteria (as at section V above) for undergoing A&A are expected to submit a LoI online to NAAC. On scrutiny of the LoI and confirming the fulfillment of the eligibility criteria by NAAC:  
+• Affiliated and Constituent colleges need to submit the application for IEQA status on-line. These institutions become eligible for submission of the SSR only after qualifying / acquiring the IEQA status.  
+ 
+• Affiliated/constituent colleges opting for second, third or fourth cycle of A&A, Universities, Autonomous colleges, colleges with Potential for Excellence (CPE) and Professional Institutions (other than Teacher Education and Physical Education)  need not undergo the IEQA stage and once found eligible can go ahead with  submitting  the SSR.                                                                                  
+ 
+b) Preparation of the Self-Study Report (SSR)   
+The assessment process aims at providing an opportunity for the institution to measure its effectiveness and efficiency, identify its strengths and weaknesses and take necessary steps for improvement. Thus the most important step in the process of assessment and accreditation is the preparation of the SSR by the institution. While preparing the SSR, institutions should follow the guidelines provided by NAAC and ensure that the SSR contains information on the following: 
+- Evidence of contributing to the core values 
+- Evidence of building on the strengths identified by the institutions 
+- Action taken to rectify the deficiencies noted by the institutions 
+- Substantive efforts made by the institution over a period of time, towards quality enhancement 
+- Specific future plans of the institution for quality enhancement 
+ 
+The institutional efforts to prepare the SSR will be an intensive but self-rewarding exercise for institutions. To maximise the benefits of such an effort, the self-evaluation must have the total commitment of the governing body, administration and every member of the faculty of the institution.  All the constituents of the institution should not only be kept fully informed but also be as closely involved in the self-study as possible. To achieve the objectives of self-evaluation, the Head of the institution has to play a positive and creative role.  To assist him/her a Steering Committee consisting of 4 to 6 members may be constituted which will co-ordinate the compilation and analysis of data related to the various aspects of the institution and its functions. This committee could be responsible for organizing the information and data and to prepare a comprehensive SSR, to be submitted to the NAAC. As the Steering Committee will have to play an active role in the preparation of the SSR, it should be ensured that the coordinator of the steering committee has considerable communication skills and the ability to organize and direct a complex institutional endeavour.  S/he must be able to motivate others. During the on-site visit of the peer team, the coordinator of the steering committee may also function as the institutional facilitator.  
+ 
+The institution has to prepare the SSR following the structure given below and submit it to NAAC in five copies (in case of Affiliated/Constituent/Autonomous colleges)/in eight copies (in case of Universities) and a digital/electronic version (CD).  
+ 
+Structure of the SSR to be submitted to NAAC:  
+A. Preface or cover letter from the Head of the Institution 
+B. Executive Summary- The SWOC analysis of the institution  
+C. Profile of the Institution 
+D. Criteria-wise analytical report –The institution should provide consolidated response for each of the Key Aspects.  It is not expected to respond question wise. The questions are only pointers and the responses should provide a holistic view describing institutional inputs, processes and outcomes covering the Key Aspect. 
+E. Inputs from each of the Department in the format provided. However in smaller colleges where there are no specific departments in vogue, the college may use the proforma and provide programme wise details. 
+ 
+A bulky SSR with too many details and descriptions may result in lack of clarity. Such a report would also lack focus and would generate more information gaps than explanations. Even for a large and complex institution, it is possible to restrict the essential documentation to manageable proportions. Put together the Executive Summary, Profile of the Institution and Criteria-wise analytical report of the  SSR should not exceed 200 pages (A4 size pages, both sides printing, MS WORD keeping single line space, 12 of Times New Roman font and one and half inches margin on each side of the page). The departmental inputs could be in addition to the above.  Inclusion of Appendices in the SSR is to be avoided. Appendices may be made available to the Peer Team during the ‘On-site visit’. 
+ 
+c)  Peer Assessment and Final Outcome 
+On receipt of the SSR, NAAC undertakes an in-house analysis of the report and looks into its completeness. On ensuring the fulfillment of the various conditions NAAC processes for organizing the peer team visit to the institution. Depending on the size of the institution, the site visit may vary from two to four days. As the ultimate goal and the efforts of NAAC is to facilitate HEIs to excellence the external peers have an important role in evaluating and synthesizing the outcomes on individual Key Aspects within the contextual framework of the HEI and to arrive at an overall assessment. Thus NAAC periodically orients senior educationists and experts in specialized areas of study from across the country and empanels them to undertake the A&A exercise. As the whole exercise is a transparent and partnered activity, while constituting the peer team NAAC consults the institution about any justifiable reservation it may have about any member of the visiting team constituted by NAAC.  
+ 
+Peer Team Visit to the Institution: The peer team constituted by NAAC visits the institution and assesses the quality of its provisions. To validate the self-study report, the team looks for evidences through interactions with the various constituents and stakeholders of the institution, checking documents and visiting the various units of the institution. At the end of the visit, for ensuring accuracy of institutional data / information the team shares the draft Peer Team Report (PTR) with the Head of the Institution. The PTR duly signed by the Head of the institution and the peer team members along with the criterion-wise Grade Point Averages (GPA), the final Institutional Cumulative Grade Point Average (CGPA) and the Institutional Grade, is submitted to NAAC for further processing. 
+ 
+ 
+Final decision by NAAC: The Executive Committee (EC) of the NAAC will review the peer team report, the criterion-wise Grade Point Averages (Cr.GPA), the final Institutional Cumulative Grade Point Average (CGPA), the Institutional Grade recommended by the Peer Team and the feedback received from the institution and the Peer team and takes the final decision on the accreditation status and the institutional grade.  The status of accreditation along with the PTR and the institutional grade approved by the EC will be made public by posting them on the website of the NAAC. Institutions which do not attain the accreditation status will be notified accordingly.  
+ 
+VII. MECHANISM FOR INSTITUTIONAL APPEALS 
+Provision for Appeals is one of the good practices followed by external Quality Assurance Agencies.   NAAC has also prescribed the mechanism for appeals. An aggrieved institution can make a written representation to the Director, NAAC with the payment of a non-refundable fee of Rs.20, 000/- within one month from the date of receipt of the accreditation certificate from the NAAC. The five-member Appeals Committee constituted for the purpose will consider the appeal and make recommendations for the consideration of Executive Committee (EC) of NAAC. The EC decision is binding on the institutions. For details, refer to the NAAC website: 
+www.naac.gov.in  
+ 
+ 
+VIII. RE-ASSESSMENT 
+Institutions, which would like to make an improvement in the accredited status, may volunteer for Re-assessment, after a minimum of one year or before three years of accreditation.  The manual to be followed for re-assessment is the same as that for the Assessment and Accreditation. However, the institution shall make specific responses based on the recommendations made by the peer team in the previous assessment and accreditation report, as well as the specific quality improvements made by the institution during the intervening period. The fee structure and other procedures would be the same as that for initial Assessment and Accreditation with the exception that the Institutions that volunteer for re-assessment will not be eligible for reimbursement of accreditation expenses, as per the “Guidelines of UGC assistance for Assessment and Accreditation”.  
+IX. SUBSEQUENT CYCLES OF ACCREDITATION  
+The methodology for subsequent cycles of accreditation i.e. second, third, fourth and so on would remain the same. However due consideration would be given to the post-accreditation activities resulting in quality improvement, quality sustenance and quality enhancement. In the SSRs institutions opting for subsequent cycles of accreditation need to highlight the significant quality sustenance and enhancement measures undertaken during the last four years (narrative not exceeding 10 pages). A functional Internal Quality Assurance Cell (IQAC) and timely submission of Annual Quality Assurance Reports (AQARs) are the Minimum Institutional Requirements (MIR) to volunteer for second, third or fourth cycle accreditation.    
+ 
+To volunteer for subsequent cycle of accreditation, institutions should record their intent six months before the expiry of the accreditation status and initiate institutional preparations for submission of SSRs. The institutions which record their intent to volunteer for subsequent cycle of accreditation and submit the SSRs within the stipulated time may continue to use the outcome of the previous cycle of accreditation till the status of next cycle Accreditation is declared by NAAC.  
+ 
+Institutions which fail to express intent for subsequent cycle of accreditation within the stipulated time will lose their accreditation status on completion of the five year validity period. 
+ 
+X. THE FEE STRUCTURE AND OTHER FINANCIAL IMPLICATIONS  
+ 
+For seeking IEQA Status  
+Affiliated and Constituent Colleges seeking 	Rs. 2,000/- (each time)  assessment and accreditation for the first-time  
+ 
+For assessment and accreditation of Universities  
+	Upto four departments  	Rs. 1,00,000/-  
+More than four, but upto ten departments  
+ Rs. 1,00,000/- + Rs.15,000/- for each additional department  More than ten departments  
+ Rs. 1,90,000/- + 
+Rs.10,000/- for each                                                   additional department  The accreditation fee will be limited to a maximum amount of Rs. 5,00,000/- per institution.  
+ 
+For assessment and accreditation of General Colleges  
+College with multi faculties i.e., Arts and Science 	Rs. 75,000/-  (Commerce will be treated as a part of Arts faculty)  
+	College with mono faculty viz., 	Rs. 50,000/-  
+Arts/Commerce/Science/Law or any other  
+ 
+For assessment and accreditation of Teacher Education / Physical Education 
+Institutions and Departments  
+Teacher education institutions / physical education 	Rs. 50,000/-  institutions  
+Teacher education department of a general college 	Rs. 25,000/-  conducting Teacher Education / Physical Education 
+Programme (s)  
+University teaching departments of Teacher Education Rs. 25,000/-  / Physical Education  
+ 
+For the HEIs recognized under 2(f) & 12B of the UGC Act, the expenditure on accreditation would be reimbursed by UGC through the NAAC. For more details refer NAAC 	Website: 	http://www.naac.gov.in/sites/naac.gov.in/files/Revised-UGCGuidelines-HEIs-2009.pdf.  
+	B. Profile of the Affiliated /Constituent College 	 
+ 
+ 
+1. Name and address of the college:  
+Name:     
+Address:   
+  
+City:    
+Website:      Pin:     State:  
+2. For communication:  
+ 
+Designation  Name     Telephone with STD code  Mobile  Fax  Email  Principal       O:       R:         Vice Principal       O:  R:    Steering 
+Committee 
+Co-ordinator       O:  R:     
+ 
+   3. Status of the of Institution :  Affiliated College Constituent College 
+Any other (specify) 
+4. Type of Institution: 	 
+a. By Gender 
+                    i.For Men                      ii.  For Women           iii. Co-education    
+b. By shift                                           
+i. Regular 
+ii. Day                                   
+iii. Evening                                            	  
+ 	 
+5. Is it a recognized minority institution?  
+  Yes No 
+ If yes specify the minority status (Religious/linguistic/ any other) and provide documentary   evidence. 
+ 
+   6. Source of funding: Government 
+Grant-in-aid   
+Self-financing  
+Any other 
+ 
+7. a. Date of establishment of the college: …………………… (dd/mm/yyyy) 
+b. University to which the college is affiliated /or which governs the college (If it is a constituent college) 	
+c. Details of UGC recognition:   
+Under Section Date, Month & Year  
+(dd-mm-yyyy) Remarks 
+(If any) i.  2 (f)         ii. 12 (B)        (Enclose the Certificate of recognition u/s 2 (f) and 12 (B) of the UGC Act) 
+d. Details of recognition/approval by statutory/regulatory bodies other than UGC      (AICTE, NCTE, MCI, DCI, PCI, RCI etc.) 
+Under Section/clause Recognition/Approval details 
+Institution/Department/ 
+Programme  Day, Month and Year  
+(dd-mm-yyyy) Validity Remarks  i.      ii.      iii.      iv.      (Enclose the recognition/approval letter) 
+ 
+8. Does the affiliating university Act provide for conferment of autonomy (as recognized by the UGC), on its affiliated colleges?  
+	                Yes    	                          No    
+If yes, has the College applied for availing the autonomous status? 
+	             Yes   	 	                No  
+ 
+9. Is the college recognized   
+a. by UGC as a College with Potential for Excellence (CPE)?     
+	        Yes    	No  
+     If yes, date of recognition: …………………… (dd/mm/yyyy) 
+b. for its performance by any other governmental agency? 
+ 
+	   Yes    	No  
+ 	 
+If yes, Name of the agency …………………… and  
+ 
+               Date of recognition: …………………… (dd/mm/yyyy) 
+ 
+10. Location of the campus and area in sq.mts:   
+Location * 	       Campus area in sq. mts.       Built  up area in sq. mts.       (* Urban, Semi-urban, Rural, Tribal, Hilly Area, Any others specify) 
+ 
+ 
+11. Facilities available on the campus (Tick the available facility and provide numbers or other details at appropriate places) or in case the institute has an agreement with other agencies in using any of the listed facilities provide information on the facilities covered under the agreement.   
+• Auditorium/seminar complex with infrastructural facilities 
+• Sports facilities 
+? play ground 
+? swimming pool 
+? gymnasium   
+• Hostel  
+? Boys’ hostel  
+ i. Number of hostels 
+ ii. Number of inmates iii. Facilities (mention available facilities)  ? Girls’ hostel  
+ i. Number of hostels 
+ ii. Number of inmates iii. Facilities (mention available facilities)  ? Working women’s hostel  i. Number of inmates 
+ii. Facilities (mention available facilities)  
+• Residential facilities for teaching and non-teaching staff (give numbers available -- cadre wise) 
+• Cafeteria -- • Health centre –  First aid, Inpatient, Outpatient, Emergency care facility, Ambulance…….  
+Health centre staff –  
+Qualified doctor       Full time          Part-time  
+ 
+Qualified Nurse        Full time          Part-time 
+ 
+• Facilities like banking, post office, book shops   
+• Transport facilities to cater to the needs of students and staff 
+• Animal house  
+• Biological waste disposal  
+• Generator or other facility for management/regulation of electricity and voltage  
+• Solid waste management facility 
+• Waste water management 
+• Water harvesting 
+12. Details of programmes offered by the college  (Give data for current  academic  year) 
+Sl. 
+No.  Programme 
+Level 	 Name of the 
+Programme/ 
+Course 	 Duration  Entry 
+Qualification  Medium of instruction Sanctioned
+/approved Student strength No. of students admitted   Under-Graduate        Post-Graduate        Integrated 
+Programmes 
+      P G              Ph.D.            M.Phil.           Ph. D.          Certificate courses        UG Diploma        PG Diploma        Any Other (specify and provide details)        
+13. Does the college offer self-financed Programmes?   Yes        No  
+	        If yes, how many?  	
+14. New programmes introduced in the college during the last five years if any? 
+Yes  No  Number   
+15. List the departments: (respond if applicable only and do not list facilities like Library, 
+Physical Education as departments, unless they are also offering academic degree awarding  programmes. Similarly,  do not list the departments offering common compulsory subjects for all the programmes like English, regional languages etc.) 
+ 
+Particulars UG  PG Research Science      Arts       Commerce                                                 Any Other not covered  above  
+      
+16. Number of Programmes offered under (Programme means a degree course like BA, 
+BSc,MA,M.Com…) 
+a. annual system 
+b. semester system 
+c. trimester system 
+17. Number of Programmes with 
+a. Choice Based Credit System 
+b. Inter/Multidisciplinary Approach 
+c. Any other ( specify and provide details) 
+ 
+18. Does the college offer UG and/or PG programmes in Teacher Education? 
+	  Yes  		No  
+ 
+ 	 
+If yes,  
+a. Year of Introduction of the programme(s)………………. (dd/mm/yyyy)  and number of batches that completed the programme  	
+  	 	 
+ 
+b. NCTE recognition details (if applicable)   
+Notification No.: …………………………………… Date: …………………………… (dd/mm/yyyy) Validity:……………………….. 
+ 
+c. Is the institution opting for assessment and accreditation of Teacher Education  Programme separately?  
+ 
+	 	 	Yes  	No  
+  	 	 
+19. Does the college offer UG or PG programme in Physical Education? 
+	  Yes  		No  
+ 
+	 	If yes,  
+a. Year of Introduction of the programme(s)………………. (dd/mm/yyyy)  and number of batches that completed the programme  	
+  	 	 
+b. NCTE recognition details (if applicable)   
+Notification No.: …………………………………… 
+Date: …………………………… (dd/mm/yyyy) Validity:…………………… 
+ 
+c. Is the institution opting for assessment and accreditation of Physical Education Programme separately?  
+	 	 	Yes  	No  
+ 
+20. Number of teaching and non-teaching positions in the Institution  
+Positions 
+  Teaching faculty  
+Non-teaching 
+staff  
+Technical staff 
+ Professor 
+ Associate Professor  Assistant Professor   *M    *F *M    *F *M    *F *M      *F *M      *F Sanctioned 	by 	the  
+UGC / University / State Government  
+Recruited                           Yet to recruit           Sanctioned by the 
+Management/society or other authorized bodies  
+Recruited            Yet to recruit           *M-Male  *F-Female 
+ 
+21. Qualifications of the teaching staff: 
+ 
+Highest qualification Professor Associate Professor Assistant Professor Total Male   Female Male   Female Male   Female  Permanent teachers D.Sc./D.Litt.          Ph.D.          M.Phil.          PG          Temporary teachers Ph.D.         M.Phil.          PG          Part-time teachers Ph.D.          M.Phil.          PG           
+ 22. Number of Visiting Faculty /Guest Faculty engaged with the College.  
+ 
+23. Furnish the number of the students admitted to the college during the last four academic years.  
+ 
+Categories Year 1 Year 2 Year 3 Year 4 Male  Female Male  Female Male  Female Male  Female SC         ST         OBC          General          Others          
+24. Details on students enrollment in the college during the current academic year:  
+ 
+Type of students  UG PG M. Phil.  Ph.D.  Total  Students from the same state where the college is located       Students from other states of India       NRI students       Foreign students       Total       
+25. Dropout rate in UG and PG (average of the last two batches)  
+                                                                                                                 UG                                    	                     PG 
+26. Unit Cost of Education  
+(Unit cost = total annual recurring expenditure (actual) divided by total number of           students enrolled )  
+Rs. (a) including the salary component  
+Rs. (b) excluding the salary component   
+ 
+ 
+27. Does the college offer any programme/s in distance education mode (DEP)?  
+	 	                       Yes  		              No  
+If yes,  
+a) is it a registered centre for offering distance education programmes of                another University  
+	                                                                     Yes                              No 	
+            
+b) Name of the University which has granted such registration. 
+ 
+
+ 
+d) Programmes carry the recognition of the Distance Education Council.  
+ 	 	 
+	Yes                  No 	
+ 
+28. Provide Teacher-student ratio for each of the programme/course offered 
+ 
+29. Is the college  applying for  
+Accreditation :       Cycle 1    Cycle 2          Cycle 3          Cycle 4 
+        	 
+Re-Assessment:    
+ (Cycle 1refers to first accreditation and Cycle 2, Cycle 3 and Cycle 4 refers to                  re-accreditation) 
+ 
+30. Date of accreditation* (applicable for Cycle 2, Cycle 3, Cycle 4 and re-assessment only)  
+Cycle 1: …………………… (dd/mm/yyyy)  Accreditation Outcome/Result……..  
+Cycle 2: …………………… (dd/mm/yyyy)  Accreditation Outcome/Result…….. 
+Cycle 3: …………………… (dd/mm/yyyy)  Accreditation Outcome/Result…….. 
+* Kindly enclose copy of accreditation certificate(s) and peer team report(s) as an annexure.     	 	 
+ 
+ 
+ 
+31. Number of working days during the last academic year. 
+  
+32. Number of teaching days during the last academic year  
+   (Teaching days means days on which lectures were engaged excluding the examination days) 
+  
+33. Date of establishment of Internal Quality Assurance Cell (IQAC)  
+     IQAC  …………………… (dd/mm/yyyy) 
+ 
+34. Details regarding submission of Annual Quality Assurance Reports (AQAR) to NAAC.  
+  AQAR  (i)    ……………… (dd/mm/yyyy) 
+   AQAR (ii)   ……………… (dd/mm/yyyy)    AQAR (iii) ……………… (dd/mm/yyyy) 
+   AQAR (iv) ……………… (dd/mm/yyyy) 
+ 
+35. Any other relevant data (not covered above) the college would like to include. (Do not include explanatory/descriptive  information)  
+ 
+ 
+C. Criteria-Wise Inputs  
+ 
+CRITERION I: CURRICULAR ASPECTS  
+	1.1  	Curriculum Planning and Implementation  
+1.1.1 	State the vision, mission and objectives of the institution, and describe how these are  communicated to the students, teachers, staff and other stakeholders. 
+ 
+1.1.2 How does the institution develop and deploy action plans for effective implementation of the curriculum? Give details of the process and substantiate through specific example(s). 
+ 
+1.1.3   What type of support (procedural and practical) do the teachers receive (from             the University and/or institution) for effectively translating the curriculum and              improving teaching practices? 
+ 
+1.1.4  Specify the initiatives taken up or contribution made by the institution for effective curriculum delivery and transaction on the Curriculum provided by the affiliating University or other Statutory agency. 
+ 
+1.1.5 How does the institution network and interact with beneficiaries such as industry, research bodies and the university in effective operationalisation of the curriculum? 
+ 
+1.1.6   What are the contributions of the institution and/or its  staff members to the development of the curriculum by the University?(number of staff members/departments represented on the Board of Studies, student feedback, teacher feedback, stakeholder feedback provided, specific suggestions etc. 
+ 
+1.1.7  Does the institution develop curriculum for any of the courses offered (other than those under the purview of the affiliating university)by it? If ‘yes’,  give details on the process (’Needs Assessment’, design, development and planning) and the courses for which the curriculum has been developed. 
+ 
+1.1.8  How does institution anlayse/ensure that the stated objectives of curriculum are achieved in the course of implementation? 
+ 
+ 
+	1.2  	Academic Flexibility  
+ 
+1.2.1 Specifying the goals and objectives give details of the certificate/diploma/ skill development courses etc., offered by the institution.  
+ 
+	1.2.2 	Does the institution offer programmes that facilitate twinning /dual degree? If 
+            ‘yes', give details. 
+ 
+1.2.3   Give details on the various institutional provisions with reference to academic flexibility and how it has been helpful to students in terms of skills development, academic mobility, progression to higher studies and improved potential for employability    
+• Range of Core /Elective options offered by the University and those opted by the college 
+• Choice Based Credit System and range of subject options  
+• Courses offered in modular form  
+• Credit transfer and accumulation facility  
+• Lateral and vertical mobility within and across programmes and courses 
+• Enrichment courses  
+ 
+1.2.4 Does the institution offer self-financed programmes? If ‘yes’, list them and indicate how they differ from other programmes, with reference to admission, curriculum, fee structure, teacher qualification, salary etc. 
+ 
+1.2.5 Does the college provide additional skill oriented programmes, relevant to regional and global employment markets? If ‘yes’ provide details of such programme and the beneficiaries.   
+1.2.6   Does the University provide for the flexibility of combining the conventional face-to-face and Distance Mode of Education for students to choose the courses/combination of their choice” If ‘yes’, how does the institution take advantage of such provision for the benefit of students? 
+ 
+ 
+ 
+	1.3  	Curriculum Enrichment  
+1.3.1 Describe the efforts made by the institution to supplement the University’s Curriculum to ensure that the academic programmes and Institution’s goals and objectives are integrated? 
+ 
+1.3.2  What are the efforts made by the institution to modify, enrich and organize the curriculum to explicitly reflect the experiences of the students and cater to needs of the dynamic employment market? 
+ 
+1.3.3  Enumerate the efforts made by the institution to integrate the cross cutting issues such as Gender, Climate Change, Environmental Education, Human Rights, ICT etc., into the curriculum? 
+ 
+1.3.4  What are the various value-added courses/enrichment programmes offered to             ensure holistic development of students? 
+ moral and ethical values  employable and life skills  better career options  community orientation 
+1.3.5 Citing a few examples enumerate on the extent of use of the feedback from stakeholders in enriching the curriculum?    
+ 
+1.3.6 How does the institution monitor and evaluate the quality of its enrichment            programmes?  
+ 
+	1.4  	Feedback System  
+1.4.1   What are the contributions of the institution in the design and development of               the curriculum prepared by the University? 
+ 
+1.4.2 Is there a formal mechanism to obtain feedback from students and stakeholders on Curriculum? If ‘yes’, how is it communicated to the University and made use internally for curriculum enrichment and introducing changes/new programmes?     
+ 
+1.4.3  How many new programmes/courses were introduced by the institution during the last four years? What was the rationale for introducing new courses/programmes?) 
+ 
+Any other relevant information regarding curricular aspects which the college would like to include. 
+ 
+CRITERION II: TEACHING-LEARNING AND EVALUATION 
+	2.1  	Student Enrolment and Profile  
+2.1.1  	How does the college ensure publicity and transparency in the admission process?   
+ 
+2.1.2   Explain in detail the criteria adopted and process of admission (Ex. (i) merit (ii) common admission test conducted by state agencies and national agencies (iii) combination of merit and entrance test or merit, entrance test and interview (iv) any other) to  various programmes of the Institution.    
+ 
+2.1.3    Give the minimum and maximum percentage of marks for admission at entry level for each of the programmes offered by the college and provide a comparison with other colleges of the affiliating university within the city/district.  
+ 
+2.1.4   Is there a mechanism in the institution to review the admission process and student profiles annually? If  ‘yes’ what is the outcome of such an effort and how has it contributed to the improvement of the process? 
+ 
+ 2.1.5  Reflecting on the strategies adopted to increase/improve access for  following categories of students, enumerate on how the admission policy of the institution and its student profiles demonstrate/reflect the National commitment to diversity and inclusion 
+? SC/ST 
+? OBC 
+? Women  
+? Differently abled   
+? Economically weaker sections  
+? Minority community 
+? Any other 
+2.1.6  Provide the following details for various programmes offered by the institution during the last four years and comment on the trends. i.e. reasons for increase / decrease and actions initiated for improvement.  
+Programmes  Number of applications Number of students admitted Demand 
+Ratio UG 
+1 
+2 
+3    PG 
+1 
+2 
+3    M.Phil.    Ph.D.    Integrated 
+PG 
+Ph.D.    Value added 
+1 
+2 
+3    Certificate  
+1 
+2 
+3    Diploma  
+1 
+2    PG Diploma  
+1 
+2 
+3    Any other  
+1 
+2 
+3     
+	2.2  	Catering to Student Diversity  
+2.2.1 How does the institution cater to the needs of differently- abled students and ensure adherence to government policies in this regard?  
+ 
+2.2.2 Does the institution assess the students’ needs in terms of knowledge and skills before the   commencement of the programme? If ‘yes’, give details on the process.  
+ 
+2.2.3 What are the strategies drawn and deployed by the institution to bridge the knowledge gap of the enrolled students to enable them to cope with the programme of their choice? (Bridge/Remedial/Add-on/Enrichment Courses, etc. 
+ 
+2.2.4 How does the college sensitize its staff and students on issues such as gender,  inclusion, environment etc.? 
+ 
+2.2.5 How does the institution identify and respond to special educational/learning needs of advanced learners? 
+ 
+2.2.6 How does the institute collect, analyze and use the data and information on the academic performance (through the programme duration) of the students at risk of drop out (students from the disadvantaged sections of society, physically challenged, slow learners, economically weaker sections etc.)?  
+ 
+	2.3  	Teaching-Learning Process  
+2.3.1  How does the college plan and organise the teaching, learning and evaluation schedules? (Academic calendar, teaching plan, evaluation blue print, etc.)     
+ 
+	2.3.2 	How does  IQAC contribute to improve the teaching –learning process?  
+ 
+2.3.3 How is learning made more student-centric? Give details on the support structures and systems available for teachers to develop skills like interactive learning, collaborative learning and independent learning among the students? 
+ 
+2.3.4 How does the institution nurture critical thinking, creativity and scientific temper among the students  to transform them into life-long learners and innovators? 
+ 
+2.3.5 What are the technologies and facilities available and used by the faculty for effective teaching? Eg: Virtual laboratories, e-learning - resources from National Programme on Technology Enhanced Learning (NPTEL) and National Mission on Education through Information and  Communication Technology (NME-ICT), open educational resources, mobile education, etc. 
+ 
+2.3.6   How are the students and faculty exposed to advanced level of knowledge and skills (blended learning, expert lectures, seminars, workshops etc.)?  
+ 
+2.3.7  Detail (process and the number of students \benefitted) on the academic, personal and psycho-social support and guidance services (professional counseling/mentoring/academic advise) provided to students?  
+ 
+2.3.8  Provide details of innovative teaching approaches/methods adopted by the faculty during the last four years? What are the efforts made by the institution to encourage the faulty to adopt new and innovative approaches and the the impact of such innovative practices on student learning? 
+ 
+	2.3.9 	How are library resources used to augment the teaching-learning process? 
+ 
+2.3.10    Does the institution face any challenges in completing the curriculum within the planned time frame and calendar? If ‘yes’, elaborate on the challenges encountered and the institutional approaches to overcome these.  
+ 
+2.3.11   How does the institute monitor and evaluate the quality of teaching learning?   
+ 
+ 
+	2.4  	Teacher Quality   
+2.4.1   Provide the following details and elaborate on the strategies adopted by the college in planning and management (recruitment and retention) of its human resource (qualified and competent teachers) to meet the changing requirements of the curriculum 
+Highest qualification  Professor Associate Professor Assistant Professor Total Male   Female Male   Female Male   Female  Permanent teachers D.Sc./D.Litt.          Ph.D.          M.Phil.          PG        Temporary teachers Ph.D.         M.Phil.          PG          Part-time teachers Ph.D.          M.Phil.          PG          2.4.2 How does the institution cope with the growing demand/ scarcity of  qualified senior faculty to teach new programmes/ modern  areas (emerging areas) of study being introduced (Biotechnology, IT, Bioinformatics etc.)? Provide details on the efforts made by the institution in this direction and the outcome during the last three years.  
+ 
+2.4.3 Providing details on staff development programmes during the last four years elaborate on the strategies adopted by the institution in enhancing the teacher quality.  
+ 
+a) Nomination to staff development programmes 
+Academic Staff Development Programmes Number of faculty nominated Refresher courses  HRD programmes   Orientation programmes  Staff training conducted by the university  Staff training conducted by other institutions   Summer / winter schools, workshops, etc.    
+b) Faculty Training programmes organized by the institution to empower and enable the  use of  various tools and technology for improved teachinglearning     
+	 	Teaching learning methods/approaches 
+	 	Handling new curriculum  
+	 	Content/knowledge management 
+	 	Selection, development and use of enrichment materials 
+	 	Assessment 
+	 	Cross cutting issues 
+	 	Audio Visual Aids/multimedia 
+	 	OER’s 
+	 	Teaching learning material development, selection and use  
+ 
+c) Percentage of faculty     
+? invited as resource persons in Workshops / Seminars / Conferences organized by external professional agencies  
+? participated in external Workshops / Seminars / Conferences recognized by national/ international professional bodies   
+? presented papers in Workshops / Seminars / Conferences conducted or recognized by professional agencies   
+2.4.4 What policies/systems are in place to recharge teachers? (eg: providing research grants, study leave, support for research and academic publications teaching experience in other national institutions and specialized programmes industrial engagement etc.)  
+ 
+2.4.5 Give the number of faculty who received awards / recognition  at the state, national and international level for excellence in teaching during the last four years. Enunciate how the institutional culture and environment contributed to such performance/achievement of the faculty. 
+ 
+2.4.6 Has the institution introduced evaluation of teachers by the students and external Peers? If yes, how is the evaluation used for improving the quality of the teaching-learning process? 
+ 
+ 
+2.5   Evaluation Process and Reforms 
+2.5.1  How does the institution ensure that the stakeholders of the institution    especially students and faculty are aware of the evaluation processes? 
+ 
+2.5.2      What are the major evaluation reforms of the university   that the institution has adopted and what are the reforms initiated by the institution on its own? 
+ 
+2.5.3  How does the institution ensure effective implementation of the evaluation  reforms of the university and those initiated by the institution on its own?  
+ 
+2.5.4  Provide details on the formative and summative evaluation approaches adopted to measure student achievement. Cite a few examples which have positively impacted the system. 
+ 
+2.5.5     Enumerate on how the institution monitors and communicates the progress and performance of students through the duration of the course/programme?   Provide 	an 	analysis 	of 	the 	students 	results/achievements   
+(Programme/course wise for last four years)  and explain the differences if any and patterns of achievement across the programmes/courses offered. 
+ 
+2.5.6  Detail on the significant improvements made in ensuring rigor and transparency in the internal assessment during the last four years and weightages assigned for the overall development of students (weightage for behavioral aspects, independent learning, communication skills etc. 
+ 
+2.5.7 	Does the institution and individual teachers use assessment/evaluation as an indicator for evaluating student performance, achievement of learning objectives and planning? If ‘yes’ provide details on the process and cite a few examples. 
+ 
+2.5.8 What are the mechanisms for redressal of grievances with reference to evaluation both at the college and University level? 
+ 
+ 
+2.6 Student performance and Learning Outcomes 
+2.6.1 Does the college have clearly stated learning outcomes? If ‘yes’ give details on how the students and staff are made aware of these? 
+ 
+2.6.2 How are the teaching, learning and assessment strategies of the institution structured to facilitate the achievement of the intended learning outcomes?  
+ 
+2.6.3 What are the measures/initiatives taken up by the institution to enhance the social and economic relevance (quality Jobs, entrepreneurship, innovation and research aptitude) of the courses offered?  
+ 
+2.6.4 How does the institution collect and analyse data on student learning outcomes and use it for planning and overcoming barriers of learning?  
+ 
+2.6.5 	How does the institution monitor and ensure the achievement of learning outcomes 
+ 
+2.6.6 What are the graduate attributes specified by the college/affiliating university? How does the college ensure the attainment of these by the students? 
+ 
+Any other relevant information regarding Teaching-Learning and Evaluation which the college would like to include. 
+ 
+CRITERION III: RESEARCH, CONSULTANCY AND EXTENSION 
+	3.1  	Promotion of Research 
+3.1.1 	Does the institution have recognized research center/s of the affiliating University or any other agency/organization? 
+ 
+3.1.2    Does the Institution have a research committee to monitor and address the issues of research? If so, what is its composition? Mention a few recommendations made by the committee for implementation and their impact.   
+ 
+3.1.3  What are the measures taken by the institution to facilitate smooth progress and implementation of research schemes/projects? 
+ autonomy to the principal investigator  timely availability or release of resources  adequate infrastructure and human resources  time-off, reduced teaching load, special leave etc. to teachers  support in terms of  technology and information needs   facilitate timely auditing and submission of utilization certificate to the funding authorities 
+ any other  
+ 
+3.1.4 	What are the efforts made by   the institution in developing scientific temper and research culture and aptitude among students? 
+ 
+3.1. 5      Give details of the faculty involvement in active research (Guiding student research, leading Research Projects, engaged in individual/collaborative research activity, etc. 
+ 
+ 3.1.6  Give details of workshops/ training programmes/ sensitization programmes conducted/organized by the institution with focus on capacity building in terms of research and imbibing research culture among the staff and students.  
+ 
+3.1.7     Provide details of prioritised research areas and the expertise available with the institution. 
+ 
+3.1.8  Enumerate the efforts of the institution  in attracting researchers of eminence to visit the campus and interact with teachers and students?    
+ 
+3.1.9  What percentage of the faculty has utilized Sabbatical Leave for research activities? How has the provision contributed to improve the quality of research and imbibe research culture on the campus?   
+ 
+3.1.10    Provide details of the initiatives taken up by the institution in creating awareness/advocating/transfer of relative findings of research of the institution and elsewhere to students and community (lab to land) 
+ 
+ 
+ 
+	3.2 	 Resource Mobilization for  Research 
+3.2.1   What percentage of the total budget is earmarked for research? Give details of major heads of expenditure, financial allocation and actual utilization.    
+ 
+3.2.2  Is there a provision in the institution to provide seed money to the faculty for research? If so, specify the amount disbursed and the percentage of the faculty that has availed the facility in the last four years? 
+ 
+3.2.3   What are the financial provisions made available to support student research projects by students?  
+ 
+3.2.4    How does the various departments/units/staff of the institute interact in undertaking inter-disciplinary research?  Cite examples of successful endeavors and challenges faced in organizing interdisciplinary research. 
+ 
+3.2.5   How does the institution ensure optimal use of various equipment and research facilities of the institution by its staff and students? 
+ 
+3.2.6 Has the institution received any special grants or finances from the industry or other beneficiary agency for developing research facility? If ‘yes’ give details. 
+ 
+3.2.7    Enumerate the support provided to the faculty in securing research funds from various funding agencies, industry and other organisations. Provide details of ongoing and completed projects and grants received during the last four years.   
+ 
+Nature of the Project  Duration Year 
+From  To  Title of the project Name of the 
+funding agency Total grant  Total grant  
+received till date Sanctioned   Received Minor projects 
+       Major projects  
+       Interdisciplinary projects       Nature of the Project  Duration Year 
+From  To  Title of the project Name of the 
+funding agency Total grant  Total grant  
+received till date Sanctioned   Received  Industry sponsored 
+       Students’ 
+research projects  
+       Any other 
+(specify) 
+        
+ 
+3.3 Research Facilities     
+3.3.1  What are the research facilities available to the students and research scholars within the campus?  
+ 
+3.3.2 What are the institutional strategies for planning, upgrading and creating infrastructural facilities to meet the needs of researchers especially in the new and emerging areas of research? 
+ 
+3.3.3  Has the institution received any special grants or finances from the industry or other beneficiary agency for developing research facilities?? If ‘yes’,  what are the instruments/ facilities created during the last four years. 
+ 
+3.3.4 What are the research facilities made available to the students and research scholars outside the campus / other research laboratories? 
+ 
+3.3.5  Provide details on the library/ information resource centre or any other facilities available specifically for the researchers?  
+ 
+3.3.6 What are the collaborative research facilities developed / created by the research institutes in the college. For ex. Laboratories, library, instruments, computers, new technology etc. 
+ 
+3.4 Research Publications and Awards    
+3.4.1    Highlight the major research achievements of the staff and students in terms of   
+? Patents obtained and filed (process and product) 
+? Original research contributing to product improvement 
+? Research studies or surveys benefiting the community or improving the services  
+? Research inputs contributing to new initiatives and social development 
+ 
+3.4.2 Does the Institute publish or partner in publication of research journal(s)? If ‘yes’, indicate the composition of the editorial board, publication policies and whether such publication is listed in any international database?    
+ 
+	3.4.3 	Give details of publications by the faculty and students:  
+? Publication per faculty  
+? Number of papers published by faculty and students in peer reviewed journals (national / international)  
+? Number of publications listed in International Database (for Eg: Web of 
+Science, Scopus, Humanities International Complete, Dare Database -  
+International Social Sciences Directory, EBSCO host, etc.) 
+? Monographs 
+? Chapter in Books 
+? Books Edited   
+? Books with ISBN/ISSN numbers with details of publishers 
+? Citation Index  
+? SNIP 
+? SJR 
+? Impact factor   
+? h-index  
+ 
+	3.4.4 	Provide details (if any) of  
+? research awards received by the faculty   
+? recognition received by the faculty from reputed professional bodies and agencies, nationally and internationally   
+? incentives given to faculty for receiving state, national and international recognitions for research contributions.  
+ 
+	3.5  	Consultancy    
+3.5.1  	Give details of the systems and strategies for establishing institute-industry interface? 
+ 
+3.5.2 What is the stated policy of the institution to promote consultancy? How is the available expertise advocated and publicized? 
+ 
+3.5.3  How does the institution encourage the staff to utilize their expertise and available facilities for consultancy services?  
+ 
+3.5.4  List the broad areas and major consultancy services provided by the institution and the revenue generated during the last four years. 
+ 
+3.5.5   What is the policy of the institution in sharing the income generated through consultancy (staff involved: Institution) and its use for institutional development? 
+ 
+	3.6  	  Extension Activities and Institutional Social Responsibility (ISR) 
+3.6.1  How does the institution promote institution-neighborhood-community network and student engagement, contributing to good citizenship, service orientation and holistic development of students? 
+ 
+3.6.2 	What is the Institutional mechanism to track  students’ involvement in various social movements / activities which promote citizenship roles? 
+ 
+3.6.3 How does the institution solicit stakeholder perception on the overall performance and quality of the institution?  
+ 
+3.6.4 How does the institution plan and organize its extension and outreach programmes? Providing the budgetary details for last four years, list the 
+major extension and outreach programmes and their impact on the overall development of students.   
+ 
+3.6.5    How does the institution promote the participation of  students and faculty in extension activities including participation in NSS, NCC, YRC and other National/ International agencies?  
+ 
+3.6.6    Give details on social surveys, research or extension work (if any) undertaken by the college to ensure social justice and empower students from underprivileged and vulnerable sections of society? 
+ 
+3.6.7 Reflecting on objectives and expected outcomes of the extension activities organized by the institution, comment on how they complement students’ academic learning experience and specify the values and skills inculcated.  
+ 
+3.6.8     How does the institution ensure the involvement of the community in its  reach out activities and contribute to the community development? Detail on the initiatives of the institution that encourage community participation in its activities?      
+ 
+3.6.9 Give details on the constructive relationships forged (if any) with other institutions of the locality for working on various outreach and extension activities. 
+ 
+3.6.10    Give details of awards received by the institution for extension activities and/contributions to the social/community development during the last four years. 
+ 
+	3.7  	Collaboration  
+3.7.1 How does the institution collaborate and interact with research laboratories, institutes and industry for research activities. Cite examples and benefits accrued of the initiatives - collaborative research, staff exchange, sharing facilities and equipment, research scholarships etc. 
+ 
+3.7.2 Provide details on the MoUs/collaborative arrangements (if any) with institutions of national importance/other universities/ industries/Corporate (Corporate entities) etc. and how they have contributed to the development of the institution.    
+        
+3.7.3 Give details (if any) on the  industry-institution-community  interactions that have contributed to  the establishment / creation/up-gradation of academic facilities, student and staff support,  infrastructure facilities of the institution viz. laboratories / library/ new technology /placement services etc. 
+ 
+3.7.4   Highlighting the names of eminent scientists/participants who contributed to the events, provide details of national and international conferences organized by the college during the last four years.  
+ 
+3.7.5 	How many of the linkages/collaborations have actually resulted in formal               MoUs and   agreements ? List out  the activities and beneficiaries and cite                 examples (if any) of the  established linkages that enhanced and/or facilitated - 
+a) Curriculum development/enrichment 
+b) Internship/ On-the-job training   
+c) Summer placement 
+d) Faculty exchange and professional development 
+e) Research 
+f) Consultancy 
+g) Extension 
+h) Publication   
+i) Student Placement 
+j) Twinning programmes 
+k) Introduction of new courses 
+l) Student exchange 
+m) Any other  
+ 
+3.7.6       Detail on the systemic efforts of the institution in planning, establishing and                implementing the initiatives of the linkages/collaborations. 
+ 
+Any other relevant information regarding Research, Consultancy and Extension which the college would like to include. 
+ 
+CRITERION IV: INFRASTRUCTURE AND LEARNING RESOURCES 
+ 
+	4.1  	Physical Facilities 
+4.1.1 What is the policy of the Institution for creation and enhancement of infrastructure that facilitate effective teaching and learning?   
+ 
+4.1.2 Detail the facilities available for  
+a) Curricular and co-curricular activities – classrooms, technology enabled learning spaces, seminar halls, tutorial spaces, laboratories, botanical garden, Animal house, specialized facilities and equipment for teaching, learning and research etc. 
+b) Extra –curricular activities – sports, outdoor and indoor games, gymnasium, auditorium, NSS, NCC, cultural activities, Public speaking, communication skills development, yoga, health and hygiene etc. 
+ 
+4.1.3 How does the institution plan and ensure that the available infrastructure is in line with its academic growth and is   optimally utilized? Give specific examples of the facilities developed/augmented and the amount spent during the last four years (Enclose the Master Plan of the Institution/ campus and indicate the existing physical infrastructure and the future planned expansions if any). 
+ 
+4.1.4    How does the institution ensure that the infrastructure facilities meet the requirements of students with physical disabilities?  
+ 
+4.1.5  Give details on the residential facility and  various provisions available within them:     
+• Hostel Facility – Accommodation available 
+• Recreational facilities, gymnasium, yoga center, etc. 
+• Computer facility including access to internet in hostel 
+• Facilities for medical emergencies 
+• Library facility in the hostels 
+• Internet and Wi-Fi facility 
+• Recreational facility-common room with audio-visual equipments 
+• Available residential facility for the staff and occupancy Constant supply of safe drinking water 
+• Security 
+ 
+4.1.6 What are the provisions made available to students and staff in terms of health care on the campus and off the campus? 
+ 
+4.1.7 Give details of the Common Facilities available on the campus –spaces for special units like IQAC, Grievance Redressal unit, Women’s Cell, Counseling and Career Guidance, Placement Unit, Health Centre, Canteen, recreational spaces for staff and students, safe drinking water facility, auditorium, etc. 
+  
+	4.2 	Library as a Learning Resource 
+4.2.1 Does the library have an Advisory Committee? Specify the composition of such a committee. What significant initiatives have been implemented by the committee to render the library, student/user friendly? 
+ 
+4.2.2 Provide details of the following:   
+? Total area of the library (in Sq. Mts.) 
+? Total seating capacity 
+? Working hours (on working days, on holidays, before examination days, during examination days, during vacation) 
+? Layout of the library (individual reading carrels, lounge area for browsing and relaxed reading, IT zone for accessing e-resources)  
+ 
+4.2.3 How does the library ensure purchase and use of current titles, print and        e-journals and other reading materials? Specify the amount spent on procuring new books, journals and e-resources during the last four years. 
+ 
+Library holdings Year -1 Year - 2 Year - 3 Year - 4 Number  Total Cost  Number  Total Cost  Number  Total Cost  Number Total 
+Cost Text books         Reference Books         Library holdings Year -1 Year - 2 Year - 3 Year - 4 Number  Total Cost  Number  Total Cost  Number  Total Cost  Number Total 
+Cost Journals/ 
+Periodicals          e-resources          Any other 
+(specify)          
+4.2.4 Provide details on the ICT and other tools deployed to provide maximum             access to the library collection?  
+? OPAC                                                                       
+? Electronic Resource Management package for e-journals 
+? Federated searching tools to search articles in multiple databases  
+? Library Website                                                               
+? In-house/remote access to e-publications                     
+? Library automation                                            
+? Total number of computers for public access         
+? Total numbers of printers for public access     
+? Internet band width/ speed     ? 2mbps  ? 10 mbps  ? 1 gb (GB) 
+? Institutional Repository   
+? Content management system for  e-learning 
+? Participation in Resource sharing networks/consortia (like Inflibnet)  
+ 
+	4.2.5 	Provide details  on the following items:  
+? Average number of walk-ins  
+? Average number of books issued/returned 
+? Ratio of library books to students  enrolled 
+? Average number of books added during last three years 
+? Average number of login to opac (OPAC) 
+? Average number of login to e-resources 
+? Average number of e-resources downloaded/printed 
+? Number of information literacy trainings organized  
+? Details of “weeding out” of books and other materials  
+	 4.2.6 	Give details of the specialized services provided by the library  
+? Manuscripts  
+? Reference           
+? Reprography 
+? ILL (Inter Library Loan Service) 
+? Information deployment and notification (Information Deployment and Notification) ? Download 
+? Printing 
+? Reading list/ Bibliography compilation 
+? In-house/remote access to e-resources 
+? User Orientation and awareness 
+? Assistance in searching Databases  ? INFLIBNET/IUC facilities 
+ 
+4.2.7 Enumerate on the support provided by the Library staff to the students and teachers of the college. 
+ 
+4.2.8 What are the special facilities offered by the library to the visually/physically challenged persons? Give details. 
+ 
+4.2.9 Does the library get the feedback from its users? If yes, how is it analysed and used for improving the library services. (What strategies are deployed by the Library to collect feedback from users? How is the feedback analysed and used for further improvement of the library services?) 
+   
+	4.3 	IT Infrastructure  
+4.3.1.   Give details on the computing facility available (hardware and software) at the institution. 
+• Number of computers with Configuration (provide actual number with exact configuration of each available system) 
+• Computer-student ratio 
+• Stand alone facility 
+• LAN facility 
+• Wifi facility  
+• Licensed software  
+• Number of nodes/ computers with Internet facility 
+• Any other 
+ 
+4.3.2    Detail on the computer and internet facility made available to the faculty and students on the campus and off-campus?  
+ 
+4.3.3 What are the institutional plans and strategies for deploying and upgrading the IT infrastructure and associated facilities?  
+ 
+4.3.4  Provide details on the provision made in the annual budget for procurement, upgradation, deployment and maintenance of the computers and their 
+accessories in the institution (Year wise for last four years)  
+ 
+4.3.5 How does the institution facilitate extensive use of ICT resources including development and use of computer-aided teaching/ learning materials by its staff and students?  
+ 
+4.3.6 Elaborate giving suitable examples on how the learning activities and technologies deployed (access to on-line teaching - learning resources, independent learning, ICT enabled classrooms/learning spaces etc.) by the institution place the student at the centre of teaching-learning process and render the role of a facilitator for the teacher. 
+ 
+4.3.7  Does the Institution avail of the National Knowledge Network connectivity directly or through the affiliating university? If so, what are the services availed of?   
+ 
+	4.4 	Maintenance of Campus Facilities 
+4.4.1  How does the institution ensure optimal allocation and utilization of the available financial resources for maintenance and upkeep of the following  facilities ( substantiate your statements by providing details of budget allocated during last four years)?  
+  a. Building  b. Furniture  c. Equipment  d. Computers  e. Vehicles  f. Any other  
+4.4.2 What are the institutional mechanisms for maintenance and upkeep of the  infrastructure, facilities and equipment of the college?  
+ 
+4.4.3 How and with what frequency does the institute take up calibration and other precision measures for the equipment/instruments? 
+ 
+4.4.4  What are the major steps taken for location, upkeep and maintenance of sensitive equipment( voltage fluctuations, constant supply of water etc.)?   
+ 
+Any other relevant information regarding Infrastructure and Learning Resources which the college would like to include. 
+ 
+CRITERION V: STUDENT SUPPORT AND PROGRESSION  
+ 
+	5.1 	Student Mentoring and Support 
+5.1.1  Does the institution publish its updated prospectus/handbook annually? If ‘yes’, what is the information provided to students through these documents and how does the institution ensure its commitment and accountability?   
+ 
+5.1.2 Specify the type, number and amount of institutional  scholarships / freeships given to the students during the last four years and whether the financial aid was available and disbursed on time?  
+ 
+5.1.3 What percentage of students receive financial assistance from state government, central government and other national agencies? 
+ 
+ 
+5.1.4 What are the specific support services/facilities  available for   Students from SC/ST, OBC and economically weaker sections 
+ Students with physical disabilities   
+ Overseas students 
+	 Students 	to 	participate 	in 	various 	competitions/National 	and 
+International 
+ Medical assistance to students: health centre, health insurance etc. 
+ Organizing coaching classes for competitive exams 
+ Skill development (spoken English, computer literacy, etc.,)  
+ Support for “slow learners” 
+ Exposures of students to other institution of higher learning/ corporate/business house etc. 
+ Publication of student magazines  
+5.1.5 Describe the efforts made by the institution to facilitate entrepreneurial skills,  among the students and the impact of the efforts. 
+ 
+5.1.6 Enumerate the policies and strategies of the institution which promote participation of students in extracurricular and co-curricular activities such as sports, games, Quiz competitions, debate and discussions, cultural activities etc. 
+* additional academic support, flexibility in examinations  
+* special dietary requirements, sports uniform and materials  
+* any other   
+ 
+5.1.7 Enumerating  on the support and guidance provided to the students in preparing for the competitive exams, give details on the number of students appeared and qualified in various competitive exams such as   UGC-CSIR- NET, UGC-NET, SLET, ATE / CAT / GRE / TOFEL / GMAT /   Central 
+/State services, Defense, Civil Services, etc.  
+ 
+5.1.8 What type of  counseling services are made available to the students( academic, personal, career, psycho-social etc.) 
+ 
+ 
+5.1.9 Does the institution have a structured mechanism for career guidance and placement of its students? If ‘yes’, detail on the services provided to help students identify job opportunities and prepare themselves for interview and  the percentage of students selected during campus interviews by different employers (list the employers and the programmes).  
+ 
+5.1.10 Does the institution have a student grievance redressal cell?  If yes, list (if any) the grievances reported and redressed during the last four years.  
+ 
+5.1.11 What are the institutional provisions for resolving issues pertaining to sexual harassment?   
+ 
+5.1.12 Is there an anti-ragging committee? How many instances (if any) have been reported during the last four years and what action has been taken on these? 
+ 
+5.1.13 Enumerate  the welfare schemes made available to students by the institution. 
+ 
+5.1.14 	Does the institution have a registered Alumni Association? If ‘yes’, what are its activities and major contributions for institutional, academic and infrastructure development?   
+ 
+	5.2  	Student Progression  
+5.2.1 Providing the percentage of students progressing to higher education or employment (for the last four batches) highlight the trends observed.  
+Student progression % UG to PG  PG to M.Phil.   PG to Ph.D.    Employed  
+• Campus selection  
+• Other than campus recruitment 
+    
+5.2.2 Provide details of the  programme wise pass percentage and completion rate for the last four years (cohort wise/batch wise as stipulated by the university)? 
+Furnish programme-wise details in comparison with that of the previous performance of the same institution and that of the  Colleges of the affiliating university within the city/district.   
+5.2.3 How does  the institution facilitate student progression to higher level of   education and/or towards employment?   
+ 
+5.2.4   Enumerate the  special support  provided to students who are at risk of failure and drop out? 
+ 
+	5.3  	Student Participation and Activities   
+5.3.1 List the range of sports, games, cultural and other extracurricular activities available to students. Provide details of participation and program calendar. 
+ 
+5.3.2 	Furnish the details of major student achievements in co-curricular, extracurricular and cultural activities at different levels: University / State / Zonal / National / International, etc. for the previous four years. 
+ 
+5.3.3 How does the college seek and use data and feedback from its graduates and employers, to improve the performance and quality of the institutional provisions? 
+ 
+5.3.4   How does the college involve and encourage students to publish   materials like catalogues, wall magazines, college magazine, and other material? List the  publications/ materials brought out by the students during the previous four academic sessions. 
+ 
+5.3.5 Does the college have a Student Council or any similar body? Give details on its selection, constitution, activities and funding.  
+ 
+5.3.6 Give details of various academic and administrative bodies that have student representatives on them.  
+ 
+5.3.7     How does the institution network and collaborate with the Alumni and former    faculty of the Institution. 
+ 
+ 
+Any other relevant information regarding Student Support and Progression which the college would like to include. 
+ 
+CRITERION VI: GOVERNANCE, LEADERSHIP AND MANAGEMENT     
+ 
+	6.1  	Institutional Vision and Leadership  
+	6.1.1  	State the vision and mission of the Institution and enumerate on how  the  
+mission  statement  defines  the  institution’s  distinctive characteristics in terms of addressing the needs of   the society, the students  it  seeks  to  serve,  institution’s  traditions  and  value orientations, vision for the future, etc.?  
+ 
+6.1.2   What is the role of top management, Principal and Faculty in design and implementation of its quality policy and plans?  
+ 
+6.1.3   What is the involvement  of the leadership in ensuring  : 
+• the policy statements and action plans  for fulfillment of  the stated mission 
+• formulation of action plans  for all operations  and incorporation of the same into the institutional strategic plan  
+• Interaction with stakeholders 
+• Proper support for  policy and planning  through  need analysis ,research inputs and consultations with the stakeholders  
+• Reinforcing  the culture of excellence 
+• Champion organizational change 
+ 
+6.1.4 What are the procedures adopted by the institution to monitor and evaluate policies and plans of the institution for effective implementation and improvement from time to time? 
+ 	 
+6.1.5   Give details of the academic leadership provided to the faculty by the top management? 
+ 
+6.1.6      How does the college groom leadership at various levels?      
+ 
+ 
+6.1.7 How does the college delegate authority and provide  operational autonomy to the departments / units of the institution and work towards  decentralized  governance system?  
+ 
+ 6.1.8 Does the college promote a culture of participative management? If ‘yes’, indicate the levels of participative management. 
+ 
+	6.2  	Strategy Development and Deployment  
+6.2.1  Does the Institution have a formally stated quality policy? How is it developed, driven, deployed and reviewed?  
+ 
+6.2.2 Does the Institute have a perspective plan for development? If so, give the aspects considered for inclusion in the plan. 
+  
+	6.2.3 	Describe the internal organizational structure and decision making processes.  
+  
+6.2.4 Give a broad description of the quality improvement strategies of the institution for each of the following   
+• Teaching & Learning 
+• Research & Development 
+• Community engagement  
+• Human resource management 
+• Industry interaction  
+•  
+6.2.5 How does the Head of the institution ensure that adequate information (from feedback and personal contacts etc.) is available for the top management and the stakeholders, to review the activities of the institution? 
+ 
+6.2.6 How does the management encourage and support involvement of the staff in improving the  effectiveness and efficiency of the institutional processes? 
+ 
+6.2.7 Enumerate the resolutions made by the Management Council in the last year and the status of implementation of such resolutions. 
+ 
+ 
+6.2.8 Does the affiliating university make a provision for according the status of autonomy to an affiliated institution? If ‘yes’, what are the efforts made by the institution in obtaining autonomy?  
+ 
+6.2.9 How does the Institution ensure that grievances / complaints are promptly attended to and resolved effectively? Is there a mechanism to analyse the nature of grievances for promoting better stakeholder relationship?   
+ 
+6.2.10 During the last four years, had there been any instances of  court cases filed by and against the institute ? Provide details on the issues and decisions of the courts on these?     
+ 
+6.2.11 Does the Institution have a mechanism for analyzing student feedback on institutional performance? If ‘yes’, what was the outcome and response of the institution to such an effort?  
+ 	  
+	6.3  	Faculty Empowerment Strategies 
+6.3.1 What are the efforts made by the institution to enhance the professional development of its teaching and non teaching staff? 
+ 
+6.3.2 What are the strategies adopted by the institution for faculty empowerment through training, retraining and motivating the employees for the roles and responsibility they perform? 
+ 
+6.3.3    Provide details on the performance appraisal system of  the staff to evaluate and  ensure that information on multiple activities is appropriately captured and considered for better appraisal. 
+ 
+6.3.4    What is the outcome of the review of the performance appraisal reports by the management and the major decisions taken? How are they communicated to the appropriate stakeholders?  
+ 
+6.3.5    What are the welfare schemes available for teaching and non teaching staff? What percentage of staff have availed the benefit of such schemes in the last four years?  
+ 
+6.3.6 What are the measures taken by the Institution for attracting and retaining eminent faculty?   
+ 
+	6.4  	Financial Management and Resource Mobilization  
+6.4.1  What is the institutional mechanism to monitor effective and efficient use of available financial resources?  
+ 
+6.4.2 What are the institutional mechanisms for internal and external audit?  When was the last audit done and what are the major audit objections? Provide the details on compliance.  
+ 
+6.4.3     What are the major sources of institutional receipts/funding and how is the deficit managed? Provide audited income and expenditure statement of academic and administrative activities of the previous four years and the reserve fund/corpus available with Institutions, if any. 
+ 
+6.4.4    Give details on the efforts made by the institution in securing additional funding and the utilization of the same (if any). 
+ 
+6.5        Internal Quality Assurance System (IQAS) 
+	6.5.1  	Internal Quality Assurance Cell (IQAC)   
+a. Has the institution established an Internal Quality Assurance Cell (IQAC)?   If ‘yes’, what is the institutional policy with regard to quality assurance and how has it contributed in institutionalizing the quality assurance processes?   
+b. How many decisions of the IQAC have been approved by the 
+management/ authorities for implementation and how many of them were actually implemented?      
+c. Does the IQAC have external members on its committee? If so, mention any significant contribution made by them.     
+d. How do students and alumni contribute to the effective functioning of                   the IQAC?  
+e. How does the IQAC communicate and engage staff from different constituents of the institution? 
+ 
+6.5.2 Does the institution have an integrated framework for Quality assurance of the academic and administrative activities? If ‘yes’, give details on its operationalisation.  
+   	 
+6.5.3 Does the institution provide training to its staff for effective implementation of the Quality assurance procedures? If ‘yes’,  give details enumerating its impact. 
+ 
+6.5.4 Does the institution undertake Academic Audit or other external review of the academic provisions? If ‘yes’, how are the outcomes used to improve the institutional activities? 
+ 
+6.5.5 How are the internal quality assurance mechanisms aligned with the requirements of the relevant external quality assurance agencies/regulatory authorities? 
+ 
+6.5.6    What institutional mechanisms are in place to continuously review the teaching learning process? Give details of its structure, methodologies of operations   and outcome? 
+ 
+6.5.7 How does the institution communicate its quality assurance policies, mechanisms and outcomes to the various internal and external stakeholders? 
+ 
+Any other relevant information regarding Governance Leadership and Management which the college would like to include. 
+ 
+CRITERIA VII: INNOVATIONS AND BEST PRACTICES   
+ 
+	7.1 	Environment Consciousness 
+	7.1.1 	Does the Institute conduct a Green Audit of its campus and facilities?    
+	7.1.2  	What are the initiatives taken by the college to make the campus eco-friendly? 
+? Energy conservation  
+? Use of renewable energy  
+? Water harvesting  
+? Check dam construction  
+? Efforts for Carbon neutrality  
+? Plantation  
+? Hazardous waste management  ? e-waste management  
+ 
+	7.2 	Innovations  
+7.2.1 Give details of innovations introduced during the last four years which have created a positive impact on the functioning of the college.     
+ 
+	7.3 	Best Practices  
+7.3.1 Elaborate on any two best practices as per the annexed format (see page .. )             which have contributed to the achievement of the Institutional Objectives and/or contributed to the Quality improvement of the core activities of the college. 
+ 
+  
+ 
+Evaluative Report of the Departments  
+ 
+The Self-evaluation of every department may be provided separately in about 3-4 pages, avoiding the repetition of the data.  
+1. Name of the department 
+2. Year of Establishment 
+3. Names of Programmes / Courses offered (UG, PG, M.Phil., Ph.D., Integrated Masters; Integrated Ph.D., etc.) 
+4. Names of Interdisciplinary courses and the departments/units  involved 
+5. Annual/ semester/choice based credit system (programme wise)  
+6. Participation of the department in the courses offered by other departments 
+7. Courses in collaboration with other universities, industries, foreign institutions, etc.   
+8. Details of courses/programmes  discontinued (if any) with reasons  
+9. Number of Teaching posts  
+ sanctioned  Filled Professors   Associate 
+Professors   Asst. Professors    
+10. Faculty profile with name, qualification, designation, specialization, (D.Sc./D.Litt. 
+/Ph.D. / M. Phil. etc.,) 
+Name Qualification Designation Specilization No. of Years of 
+Experience No. of Ph.D. Students guided for the last 4 years                    
+ 
+ 
+11. List of senior visiting faculty 
+12. Percentage of lectures delivered and practical classes handled(programme wise) by temporary faculty 
+13. Student -Teacher Ratio (programme wise) 
+14. Number of academic support staff (technical) and administrative staff; sanctioned and filled 
+15. Qualifications of teaching faculty with DSc/ D.Litt/ Ph.D/ MPhil/PG. 
+16. Number of faculty with ongoing  projects from  a) National b) International funding   agencies  and  grants received 
+17. Departmental projects funded by  DST-FIST; UGC, DBT, ICSSR, etc. and total grants received 
+18. Research Centre /facility  recognized by the University 
+19. Publications:  
+? a)  Publication per faculty  
+? Number of papers published in peer reviewed journals (national / international) by faculty and students  
+? Number of publications listed in International Database (For Eg: Web of 
+Science, Scopus, Humanities International Complete, Dare Database -  
+International Social Sciences Directory, EBSCO host, etc.) 
+? Monographs 
+? Chapter in Books 
+? Books Edited   
+? Books with ISBN/ISSN numbers with details of publishers 
+? Citation Index  
+? SNIP 
+? SJR 
+? Impact factor   
+? h-index  
+20. Areas of consultancy and income generated  
+21. Faculty as members in  
+a) National committees b) International Committees c) Editorial Boards…. 
+22. Student projects  
+a) Percentage of students who have done in-house projects including inter departmental/programme 
+b) Percentage of students placed for projects in organizations outside the institution i.e.in Research laboratories/Industry/other agencies 
+23. Awards/ Recognitions received by faculty and students 
+24. List of eminent academicians and scientists/ visitors to the department 25. Seminars/ Conferences/Workshops organized & the source of funding         a)National  
+       b)International 
+26. Student profile programme/course wise: 
+Name of the 
+Course/programme 
+(refer question no. 4) Applications received Selected Enrolled *M      *F Pass percentage                               *M=Male F=Female 
+27. Diversity of Students 
+Name of the 
+Course 
+ 
+ % of students from the 
+same state % of students from other 
+States % of students from abroad                      
+28. How many students have cleared national and state competitive examinations such as NET, SLET, GATE, Civil services, Defense services, etc.  ?  
+29. Student progression 
+Student progression Against %  enrolled  UG to PG  PG to M.Phil.   PG to Ph.D.    Ph.D. to Post-Doctoral                   Employed  
+• Campus selection  
+• Other than campus recruitment 
+   Entrepreneurship/Self-employment   30. Details of  Infrastructural facilities  
+a) Library  
+b) Internet facilities for Staff & Students  
+c) Class rooms with ICT facility 
+d) Laboratories 
+31. Number of students receiving financial assistance from college, university, government or other agencies 
+32. Details on student enrichment programmes (special lectures /  workshops / seminar) with external experts 
+33. Teaching methods adopted to improve student learning 
+34. Participation in Institutional Social Responsibility (ISR) and Extension activities 35. SWOC analysis of the department and Future plans 
+ 
+Annexure - ….. 
+ 
+Format for Presentation of Practice 
+1. Title of the Practice  
+	 	This title should capture the keywords that describe the Practice. 
+2. Goal  
+ Describe the aim of the practice followed by the institution.  Brief the underlying principles or concepts in about 100 words. 
+3. The Context  
+ Describe any particular contextual feature or challenging issues that have had to be addressed in designing and implementing the Practice in about 150 words.  
+4. The Practice  
+ Describe the Practice and its implementation. Include anything about this practice that may be unique in the Indian higher education. Please also identify  constraints or limitations, if any,  in about 400 words. 
+5. Evidence of Success  
+ Provide evidence of success such as performance against targets and benchmarks and review results. What do these results indicate?  Describe in about 200 words. 
+6. Problems Encountered and Resources Required  
+ Please identify the problems encountered and resources required to implement the practice in about 150 words. 
+7. Notes (Optional) 
+ Any other information that may be relevant and important to the reader for adopting/ implementing the Best Practice in their institution about 150 words.  
+8. Contact Details   	Name of the Principal: 	 
+	 	Name of the Institution: 
+	 	City: 
+	 	Pin Code: 
+	 	Accredited Status: 
+	 	Work Phone :   	   	 	 	 	 	Fax:          	 	 
+	 	Website:   	 	 	 	 	 	E-mail : 
+	 	Mobile:  
+ 
+ 
+Post-accreditation Initiatives   
+ 
+If the college has already undergone the accreditation process by NAAC, please highlight the significant quality sustenance and enhancement measures undertaken during the last four years. The narrative may not exceed five pages.    
+
+Declaration by the Head of the Institution 
+ 
+ 
+I certify that that the data included in this Self-Study Report (SSR) are true to the best of my knowledge.  
+ 
+This SSR is prepared by the institution after internal discussions, and no part thereof has been outsourced.  
+ 
+I am aware that the Peer team will validate the information provided in this SSR during the peer team visit.  
+ 
+ 
+Signature of the Head of the institution                                                                                     with seal:  
+ 
+ 
+ 
+Place:  
+Date: 
+
+Glossary  
+ 
+Academic audit: An exercise which serves to provide assurance that the delegated responsibilities for quality and standards of academic provision are being appropriately discharged. 
+ 
+Academic calendar: The schedule of the institution for the academic year, giving details of all academic and administrative events. 
+ 
+Academic flexibility: Choice offered to the students in the curriculum offering and the curriculum transactions. 
+ 
+Accreditation: Certification of quality that is valid for a fixed period, which in the case of NAAC is five years. 
+ 
+Assessment: Performance evaluation of an institution or its units based on certain established criteria. 
+ 
+Assessors: Trained academics or experts who represent NAAC on peer teams. 
+ 
+# Benchmarks: An example of good performance that serves as a standard for comparison of one’s own performance. It is a technique in which an institution measures its performance against that of the best of others.  
+ 
+Beyond syllabus scholarly activities: Participation in academic activities beyond the minimum requirements of the syllabus. 
+ 
+Blended learning: A mixing of different learning environments such as traditional face-to-face classroom methods with modern computer-mediated activities.   
+ 
+Bridge course: A teaching module which helps to close the gap between two levels of competence. 
+ 
+Carbon neutral: A term used to describe fuels that neither contribute to nor reduce the amount of carbon (measured in the release of carbon dioxide) into the atmosphere. 
+ 
+Catering to student diversity: The strategies adopted by institution to fulfill the needs of a heterogeneous group of students. 
+ 
+Choice based credit system: A mode of learning in higher education which facilitates a student to have some freedom in selecting his/her own choices, across various disciplines for completing a UG / PG programme. It is popularly known as the cafeteria model.  
+ 
+Citation index: The number of times a research papers it is referred to by other researchers in refereed journals and is a measure of validity of its contents. 
+ 
+Co-curricular activities: Activities, which support the curriculum such as field trips, display of academic achievements, quiz, debate, discussion, seminars, role-play, etc. 
+ 
+Collaboration: Formal agreement/ understanding between any two or more institutions for training, research, student/faculty exchange or extension support. 
+ 
+# Completion rates (course/programme): The ratio of the total number of learners successfully completing a course/ graduating from a programme in a given year to the total number of learners who initially enrolled on the course/programme. 
+ 
+Constituencies: All the academic, administrative and support units of the institution. 
+ 
+Counseling: Assisting and mentoring students individually or collectively for academic, career, personal and financial decision-making. 
+ 
+Course outlines: List of the course modules, similar to a table of contents in a book or the outline used for writing papers. The outline defines the scope and content of the course.  
+ 
+Course schedule: Details of classes being offered, its time, location, faculty, and its unique number which students must know in order to register. The course schedule is published prior to the commencement of registration for each semester / session.  
+ 
+Criteria: Pre-determined standards of functioning of an institution of higher education that form the basis of assessment and accreditation as identified / defined by NAAC. 
+ 
+Curriculum design and development: Process of defining the contents of units of study and usually obtained through needs assessment, feedback from stakeholders and expert groups. Curriculum design and curriculum development are procedures which are closely linked to the description of learning outcomes.  
+ 
+Cycles of Accreditation: An institution undergoing the accreditation process by NAAC for the first time is said to be in Cycle 1 and the consecutive five year periods as Cycle 2, 3, etc. 
+ 
+Dare Database - International Social Sciences Directory: Provides access to world wide information on social science, peace, and human rights research and training institutes, social science specialists, and social science periodicals. 
+ 
+Dual degree: Pursuing two different university degrees in parallel, either at the same institution or at different institutions (sometimes in different countries), completing them in less time than it would take to earn them separately.   
+ 
+EBSCOhost: Is an online reference resource with designed to cater to user needs and preferences at every level of research, with over 350 full text and secondary databases available. 
+ 
+Elective courses: A choice available to students to select from among a large number of subjects. 
+ 
+Emerging areas: New areas of study and research deemed important to pursue. These areas may have been identified by national agencies or international bodies.   
+ 
+Enrichment courses: Value added courses offered by institution for student empowerment. They enhance the curriculum by amplifying, supplementing and replacing such parts or features as have become ineffective or obsolete. 
+ 
+Evaluation process and reforms: Assessment of learning, teaching and evaluation process and reforms to increase the efficiency and effectiveness of the system. 
+ 
+Extension activities: The aspect of education, which emphasizes neighborhood services. These are often integrated with curricula as extended opportunities intended to help, serve reflect and learn. The curriculum-extension interface has educational values, especially in rural India. 
+Faculty development program: Programs aimed at updating the knowledge and pedagogical skills of faculty. 
+ 
+# Feedback: a) formative and evaluative comments given by tutors on the performance of individual learners.      
+b) evaluative comments made by stakeholders to the institution on the quality and effectiveness of a defined process. 
+c) response from students, academic peers and employers for review and design of curriculum. 
+ 
+Financial management: Budgeting and optimum utilization of financial resources. 
+ 
+Flexibility: A mechanism through which students have wider choices of programmes to choose from, as well as, multiple entry and exit points for programmes / courses.  
+ 
+Gender Audit: A tool and a process based on a methodology to promote organizational learning at the individual, work unit and organizational levels on how to practically and effectively mainstream gender.  
+ 
+Graduate Attributes: Qualities, skills and understandings a university community agrees its students should develop during their time with the institution. These attributes include, but go beyond, the disciplinary expertise or technical knowledge that has traditionally formed the core of most university courses. They are qualities that also prepare graduates as agents for social good in an unknown future.1  
+ 
+Green Audit: The process of assessing the environmental impact of an organization, process, project, product, etc.    
+ 
+# Grievance redressal: Mechanisms for receiving, processing and addressing dissatisfaction expressed, complaints and other formal requests made by learners, staff and other stakeholders on the institutional provisions promised and perceived. 
+ 
+h-index (Hirsch Index): An index that attempts to measure both the productivity and impact of the published work of a scientist or scholar. The index is based on the set of the scientist’s most cited papers and the number of citations that they have received in other publications. The index can also be applied to the productivity and impact of a group of scientists, such as a department or university or country. 
+ 
+Human Resource Management: The process of assessing the human power requirements, recruiting, monitoring the growth and appraising them periodically and plan the staff development programs for the professional development and provide the necessary incentives and feedback. 
+ 
+Humanities International Complete: A comprehensive database covering journals, books and reference sources in the humanities. This database provides citation information for articles, essays and reviews, as well as original creative works including poems and fiction. Photographs, paintings and illustrations are also referenced. 
+ 
+ICT: Consists of the hardware, software, networks and media for the collection, storage, processing, transmission and presentation of information (voice, data, text, images) as well as related services.2 
+ 
+Impact factor (IF): A measure of the citations to science and social sciences journals.  The impact factor for a journal is calculated based on a three-year period and can be considered to be the average number of times published papers are cited up to 2 years after publication. 
+ 
+Incinerator: Waste destruction in a furnace by controlled burning at high temperatures.  
+ 
+Infrastructure: Physical facilities like building, play fields, hostels etc. which help run an institutional program.  
+ 
+Institutional Eligibility for Quality Assessment (IEQA): Eligibility granted to an Affiliated / Constituent colleges which are seeking assessment and accreditation for the first time.  
+ 
+Institutional Social Responsibility (ISR): Focuses on the institution’s responsibilities to the public in terms of protection of public health, safety and the environment, the public ethical behavior and the need to practice good citizenship. 
+ 
+# Interdisciplinary research: An integrative approach in which information from more than one discipline is used in interpreting the content of a subject, phenomenon, theory or principle. 
+ 
+Internal Quality Assurance System (IQAS): Self regulated responsibilities of the higher education institutions aimed at continuous improvement of quality for achieving academic and administrative excellence. 
+ 
+Leadership: Term used for setting direction and create a student-focused, learning oriented climate, clear and visible values and high expectation by ensuring the creation of strategies, system and methods for achieving excellence, stimulating innovation and building knowledge and capabilities. 
+ 
+Learning outcomes: Specific intentions of a programme or module, written in clear terms. They describe what a student should know, understand, or be able to do at the end of that programme or module. 
+ 
+Library as a learning resource: The library holdings in terms of titles of books, journals and other learning materials and technology aided learning mechanism, which enable the students to acquire information, knowledge and skills required for their study. 
+ 
+# New technologies: Digital tools and resources (hardware and software) and their application in the field of education. 
+ 
+# Open educational resources: Educational materials and resources offered freely and openly for anyone to use and under some licenses to re-mix, improve and redistribute. 
+ 
+Optimum utilization of infrastructure: The infrastructure facilities are made available to the student for their maximum utilization. e.g. Extended hours for computer center and library, sharing of facilities for interdisciplinary and multidisciplinary programs. 
+ 
+Organizational structure: The structure and functions of an institution to co-ordinate academic and administrative planning. 
+ 
+Outreach activities: Is the practice of conducting local public awareness activities through targeted community interaction. They are guided by a local needs assessment. 
+ 
+Participative management: Refers to an open form of management where employees are actively involved in the institution’s decision making process.  
+ 
+Perspective development: Is a blue print regarding the objectives and targets of long term growth.   
+ 
+Physical facilities: Infrastructure facilities of the institution to run the educational programs efficiently and the growth of the infrastructure to keep pace with the academic growth of the institution. 
+ 
+Program options: A range of courses offered to students to choose at various levels leading to degrees/ diplomas/ certificates. 
+ 
+Promotion of research and research support system: The process of promoting research culture among faculty and students by facilitating faculty and student participation in research budget allocation, research fellowship and other faculties. 
+ 
+Remedial courses: Courses offered to academically disadvantaged students in order to help them cope with academic requirements. 
+ 
+Research: Systematic intellectual investigations aimed at discovering, interpreting and revising human knowledge. 
+ 
+Research grant: Grant generated/ received from different agencies by the institution for conducting research projects.  
+ 
+Research output: Quality research outcome beneficial for the discipline, society, industry and dissemination of knowledge including theoretical and practical findings. 
+ 
+Resource mobilization: Generation of funds through internal and external sources such as donations, consultancy, self-financing courses and so on. 
+ 
+Scopus: The world’s largest abstract and citation database of peer-reviewed literature and quality web sources. 
+ 
+SJR (Sclmago Journal Rank): This takes three years of publication data into account to assign relative scores to all the sources (journal articles, conference proceedings, review articles, etc.) in a citation network (Journals in SCOPUS database).  
+ 
+SNIP (Source Normalized Impact per Person): Is the ratio of the source’s average citation count per paper in a three year citation window over the “citation potential” of its subject field.  
+ 
+Stakeholder relationship: Affiliation and interaction with groups or individuals who have an interest in the actions of the institutions and the ability to influence its actions, decisions, policies, practices or goals of the organization. 
+ 
+# Strategic Plan: A specific, action-oriented medium or long-term plan for making progress towards a set of institutional goals. 
+ 
+Strategy development: Formulation of objectives, directives and guidelines with specific plans for institutional development. 
+ 
+Student profile: The student community of the institution, their strength and the diversity in terms of economic and social strata, location and other demographic aspects such as gender, age, religion, caste, rural/ urban. 
+ 
+Student progression: Vertical movement of students from one level of education to the next higher level successfully or towards gainful employment. 
+ 
+Student support: Facilitating mechanism for access to information fee structure and refund policies and also guidance and placement cell with student welfare measures to give necessary learning support to the students. 
+ 
+Teacher quality: A composite term to indicate the qualification of the faculty, the adequacy meant for recruitment procedures, professional development, recognition and teachers characteristics. 
+ 
+Teaching-learning process: Learner-centered education through appropriate methodologies to facilitate effective teaching and learning. 
+ 
+Twinning programmes: An arrangement between two institutions where a provider in source country A collaborates with a provider in Country B to allow students to take course credits in Country B and/or in source Country A. Only one qualification is awarded by the provider in source Country A. Arrangements for twinning programs and awarding of degrees usually comply with national regulations of the provider in source Country A. 
+ 
+Web of Science: An online academic citation index designed for providing access to multiple databases, cross-disciplinary research, and in-depth exploration of specialized subfields within an academic or scientific discipline. 
+ 
+Weightages:  Taking cognizance of the different types of educational institutions, differential scores are assigned to the criteria and key aspects.  
+ 
+ 
+ 
+# 	From Quality Assurance Toolkit for Distance Higher Education Institutions and Programmes. 
+ 
+ 
+1 Bowden et al 2000 from http://www.curtin.edu.my/T&L/doc/Graduate_Attributes.pdf  
+2 World Bank  http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTEDUCATION 
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+ Manual for Self-Study - Affiliated Colleges                                                        Page 1 of 89 
+ 
+
+ Manual for Self-Study - Affiliated Colleges                                                        Page 1 of 89 
+ 
+
+ Manual for Self-Study - Affiliated Colleges                                                        Page 1 of 89 
+ 
+
+ Manual for Self-Study - Affiliated Colleges                                                        Page 10 of 89 
+ 
+
+ Manual for Self-Study - Affiliated Colleges                                                        Page 10 of 89 
+ 
+
+ Manual for Self-Study - Affiliated Colleges                                                        Page 10 of 89 
+ 
+
