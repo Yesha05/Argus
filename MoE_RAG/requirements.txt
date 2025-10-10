@@ -1,0 +1,22 @@
+# Core libraries
+transformers>=4.43.0
+torch>=2.2.0
+accelerate>=0.31.0
+faiss-cpu>=1.8.0
+sentence-transformers>=2.6.0
+langchain>=0.2.1
+numpy>=1.26.4
+pandas>=2.2.2
+tqdm>=4.66.4
+requests>=2.31.0
+huggingface_hub>=0.22.2
+chromadb>=0.4.24
+rank-bm25>=0.2.2
+
+# Mac CPU compatibility
+protobuf==4.25.3
+scipy>=1.12.0
+
+# Optional (for backend/app)
+fastapi>=0.110.0
+uvicorn>=0.29.0
